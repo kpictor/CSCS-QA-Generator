@@ -28,7 +28,7 @@ class App(tk.Tk):
         self.provider_menu = ttk.Combobox(
             config_frame,
             textvariable=self.provider_var,
-            values=["Gemini", "OpenAI"],
+            values=["Gemini", "OpenAI", "Qwen", "Claude"],
             state="readonly"
         )
         self.provider_menu.grid(row=0, column=1, columnspan=3, padx=5, pady=5, sticky=tk.EW)

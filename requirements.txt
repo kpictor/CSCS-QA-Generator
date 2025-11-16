@@ -1,3 +1,5 @@
 PyMuPDF
 openai
 google-generativeai
+dashscope
+anthropic

@@ -4,7 +4,7 @@ This application uses AI to generate Certified Strength and Conditioning Special
 
 ## Features
 
--   **AI-Powered Q&A:** Leverages generative AI (Gemini or OpenAI) to create high-quality, context-aware practice questions.
+-   **AI-Powered Q&A:** Leverages generative AI (Gemini, OpenAI, Qwen, or Claude) to create high-quality, context-aware practice questions.
 -   **Targeted Studying:** Select specific domains, sub-domains, and tasks directly from the CSCS exam outline.
 -   **Cognitive Level Selection:** Tailor the difficulty and style of questions by choosing between Recall, Application, and Analysis cognitive levels.
 -   **Editable Prompts:** View and edit the prompt before it's sent to the AI to fine-tune the generated questions.
@@ -42,7 +42,7 @@ nsca-cscs/
 ### Prerequisites
 
 -   Python 3.10+
--   An API key for either Google Gemini or OpenAI.
+-   An API key for either Google Gemini, OpenAI, Qwen, or Claude.
 
 ### Installation Steps
 
@@ -97,7 +97,7 @@ python -m cscs_qa_generator.app
 
 ## Usage
 
-1.  **Select AI Provider:** Choose between Gemini and OpenAI from the dropdown menu.
+1.  **Select AI Provider:** Choose between Gemini, OpenAI, Qwen, and Claude from the dropdown menu.
 2.  **Enter API Key:** Input your API key for the selected provider.
 3.  **Validate Key:** Click "Validate Key". This will verify the key and fetch the available AI models. The buttons below will become active upon successful validation.
 4.  **Select Model:** Choose a specific AI model from the dropdown.
