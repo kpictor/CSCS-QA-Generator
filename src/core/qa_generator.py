@@ -1,4 +1,4 @@
-from . import ai_models
+from ..api import ai_models
 
 def generate_prompt(domain, level, content, example_questions=None):
     """Generates a prompt for the AI model, including few-shot examples if available."""

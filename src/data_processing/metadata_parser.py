@@ -128,7 +128,9 @@ def parse_exam_stats(file_path):
     return {}
 
 class MetadataManager:
-    def __init__(self, base_path='.'):
+    def __init__(self, base_path=None):
+        if base_path is None:
+            base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
         self.exam_outline_path = os.path.join(base_path, '..', 'data', 'metadata', 'ExamContentOutline.md')
         self.study_guide_path = os.path.join(base_path, '..', 'data', 'metadata', 'study_guide.md')
         
@@ -151,7 +153,7 @@ class MetadataManager:
 
 if __name__ == '__main__':
     # Example usage for testing
-    metadata_manager = MetadataManager(base_path='cscs_qa_generator')
+    metadata_manager = MetadataManager()
     
     # Print Exam Outline
     import json

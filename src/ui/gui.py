@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox
-from . import qa_generator
-from . import content_orchestrator
-from . import config_manager
+from ..core import qa_generator
+from ..core import content_orchestrator
+from ..utils import config_manager
 
 class App(tk.Tk):
     def __init__(self, content_orchestrator_instance, config_manager_instance):

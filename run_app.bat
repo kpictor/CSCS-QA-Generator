@@ -1,2 +1,2 @@
 @echo off
-python -m src.cscs_qa_generator.app
+python -m src.app

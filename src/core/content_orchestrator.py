@@ -1,10 +1,13 @@
 import os
 import json
 import re
-from . import metadata_parser
+from ..data_processing import metadata_parser
 
 class ContentOrchestrator:
-    def __init__(self, base_path='.'):
+    def __init__(self, base_path=None):
+        if base_path is None:
+            base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
         self.processed_chapters_path = os.path.join(base_path, 'processed_chapters')
         self.match_analysis_path = os.path.join(base_path, '..', 'data', 'metadata', 'Match analysis.md')
         
