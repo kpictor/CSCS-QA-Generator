@@ -74,17 +74,36 @@ class App(tk.Tk):
         self.level_menu = ttk.Combobox(gen_controls_frame, textvariable=self.level_var, values=["Recall", "Application", "Analysis"], state="readonly")
         self.level_menu.grid(row=2, column=1, padx=5, pady=5, sticky=tk.EW)
 
+        # Batch Generation
+        ttk.Label(gen_controls_frame, text="Number of Questions:").grid(row=3, column=0, padx=5, pady=5, sticky=tk.W)
+        self.num_questions_var = tk.IntVar(value=5)
+        self.num_questions_spinbox = ttk.Spinbox(
+            gen_controls_frame,
+            from_=1,
+            to=20,
+            textvariable=self.num_questions_var,
+            state="readonly",
+            width=5
+        )
+        self.num_questions_spinbox.grid(row=3, column=1, padx=5, pady=5, sticky=tk.W)
+
+
         # --- Action Buttons Frame ---
         action_buttons_frame = ttk.Frame(main_frame)
         action_buttons_frame.pack(fill=tk.X, pady=5)
         action_buttons_frame.columnconfigure(0, weight=1)
         action_buttons_frame.columnconfigure(1, weight=1)
+        action_buttons_frame.columnconfigure(2, weight=1)
 
         self.generate_button = ttk.Button(action_buttons_frame, text="Generate Prompt", command=self.generate_and_display_prompt, state=tk.DISABLED)
         self.generate_button.grid(row=0, column=0, sticky=tk.EW, padx=(0, 2))
 
         self.send_button = ttk.Button(action_buttons_frame, text="Send to AI", command=self.send_prompt_to_ai, state=tk.DISABLED)
-        self.send_button.grid(row=0, column=1, sticky=tk.EW, padx=(2, 0))
+        self.send_button.grid(row=0, column=1, sticky=tk.EW, padx=(2, 2))
+
+        self.batch_generate_button = ttk.Button(action_buttons_frame, text="Generate Batch", command=self.generate_batch_qa, state=tk.DISABLED)
+        self.batch_generate_button.grid(row=0, column=2, sticky=tk.EW, padx=(2, 0))
+
 
         # --- Prompt Frame ---
         prompt_frame = ttk.LabelFrame(main_frame, text="Prompt", padding="10")
@@ -146,6 +165,8 @@ class App(tk.Tk):
         self.ai_model_menu.config(state="disabled")
         self.generate_button.config(state="disabled")
         self.send_button.config(state="disabled")
+        self.batch_generate_button.config(state="disabled")
+        self.num_questions_spinbox.config(state="disabled")
 
     def validate_api_key(self):
         """Validates the key and fetches models."""
@@ -175,12 +196,16 @@ class App(tk.Tk):
                 self.ai_model_menu.current(0)
             self.generate_button.config(state="normal")
             self.send_button.config(state="normal")
+            self.batch_generate_button.config(state="normal")
+            self.num_questions_spinbox.config(state="readonly")
         else:
             self.validation_status_label.config(text="Invalid ✖", foreground="red")
             self.ai_model_menu.set('')
             self.ai_model_menu.config(state="disabled")
             self.generate_button.config(state="disabled")
             self.send_button.config(state="disabled")
+            self.batch_generate_button.config(state="disabled")
+            self.num_questions_spinbox.config(state="disabled")
 
     def on_model_select(self, event=None):
         """Saves the selected model to config."""
@@ -246,3 +271,81 @@ class App(tk.Tk):
             messagebox.showerror("Generation Error", f"An error occurred: {e}")
             self.output_text.delete("1.0", tk.END)
             self.output_text.insert(tk.END, f"An error occurred: {e}")
+
+    def generate_batch_qa(self):
+        """Generates a batch of Q&A based on the selected domain."""
+        # --- 1. Get Configuration ---
+        provider = self.provider_var.get()
+        api_key = self.config_manager.get(f"{provider.upper()}_API_KEY")
+        model_name = self.ai_model_var.get()
+        num_questions = self.num_questions_var.get()
+        cognitive_level = self.level_var.get()
+
+        if not all([provider, api_key, model_name]):
+            messagebox.showerror("Error", "Configuration is incomplete. Please validate your key and select a model.")
+            return
+
+        # --- 2. Get Selected Topic and Content ---
+        selected_item = self.domain_tree.focus()
+        if not selected_item:
+            messagebox.showwarning("Input Error", "Please select a topic from the Exam Outline.")
+            return
+
+        topic_path_cleaned = []
+        current_item = selected_item
+        while current_item:
+            text = self.domain_tree.item(current_item, "text")
+            cleaned_text = text.split('(')[0].strip()
+            topic_path_cleaned.insert(0, cleaned_text)
+            current_item = self.domain_tree.parent(current_item)
+        
+        # Use the top-level domain for broader content
+        domain_key = topic_path_cleaned[1] if len(topic_path_cleaned) > 1 else topic_path_cleaned[0]
+        full_content = self.content_orchestrator.get_content_for_domain(domain_key)
+        
+        if not full_content:
+            messagebox.showerror("Error", f"Could not retrieve content for the domain: {domain_key}")
+            return
+
+        # --- 3. Chunk Content ---
+        # Split content by section headers for focused prompts
+        content_chunks = [chunk for chunk in full_content.split('\n## ') if chunk.strip()]
+        if not content_chunks:
+            content_chunks = [full_content] # Use the whole content if no headers are found
+
+        # --- 4. Generate Questions Iteratively ---
+        self.output_text.delete("1.0", tk.END)
+        self.output_text.insert(tk.END, f"Starting batch generation of {num_questions} questions...\n\n")
+        self.update_idletasks()
+
+        generated_count = 0
+        for i in range(num_questions):
+            self.output_text.insert(tk.END, f"--- Generating Question {i+1}/{num_questions} ---\n")
+            
+            # Cycle through content chunks
+            chunk = content_chunks[i % len(content_chunks)]
+            
+            # Generate a focused prompt for the chunk
+            prompt = qa_generator.generate_prompt(
+                domain=" / ".join(topic_path_cleaned),
+                level=cognitive_level,
+                content=chunk,
+                example_questions=[] # Keep prompts concise for batch generation
+            )
+            
+            self.prompt_text.delete("1.0", tk.END)
+            self.prompt_text.insert(tk.END, f"--- PROMPT FOR QUESTION {i+1} ---\n\n{prompt}")
+            self.update_idletasks()
+
+            try:
+                # Call the AI
+                generated_qa = qa_generator.generate_qa_with_ai(provider, model_name, api_key, prompt)
+                self.output_text.insert(tk.END, f"{generated_qa}\n\n")
+                generated_count += 1
+            except Exception as e:
+                error_message = f"Error generating question {i+1}: {e}\n\n"
+                self.output_text.insert(tk.END, error_message)
+            
+            self.update_idletasks()
+
+        self.output_text.insert(tk.END, f"--- Batch Complete: Successfully generated {generated_count}/{num_questions} questions. ---")
