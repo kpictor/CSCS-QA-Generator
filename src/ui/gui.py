@@ -120,41 +120,86 @@ class App(tk.Tk):
         tree_frame = ttk.Frame(parent)
         tree_frame.pack(fill=tk.BOTH, expand=True)
 
+        # Removed selectmode='extended' as we are implementing manual checkboxes
         self.domain_tree = ttk.Treeview(tree_frame, height=10, columns=("id",), displaycolumns=())
-        self.domain_tree.heading("#0", text="Select an Exam Outline Topic", anchor=tk.W)
+        self.domain_tree.heading("#0", text="Exam Outline (Click to Select)", anchor=tk.W)
         
         scrollbar = ttk.Scrollbar(tree_frame, orient="vertical", command=self.domain_tree.yview)
         self.domain_tree.configure(yscrollcommand=scrollbar.set)
         
         self.domain_tree.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+        
+        # Bind Click for Checkbox Toggling
+        self.domain_tree.bind("<Button-1>", self.toggle_selection)
 
         outline = self.content_orchestrator.get_outline()
         
         for section_name, section_data in outline.items():
             # Section
-            sec_id = self.domain_tree.insert("", "end", text=section_data['header'], values=(section_data['id'],), open=True)
+            sec_id = self.domain_tree.insert("", "end", text=f"☐ {section_data['header']}", values=(section_data['id'],), open=True)
             
             for domain_name, domain_data in section_data.get('domains', {}).items():
                 # Domain
-                dom_id = self.domain_tree.insert(sec_id, "end", text=domain_data['header'], values=(domain_data['id'],), open=False)
+                dom_id = self.domain_tree.insert(sec_id, "end", text=f"☐ {domain_data['header']}", values=(domain_data['id'],), open=False)
                 
                 for subdomain_name, subdomain_data in domain_data.get('subdomains', {}).items():
-                    # Subdomain (This is where the mapping usually lives)
-                    sub_id = self.domain_tree.insert(dom_id, "end", text=subdomain_data['header'], values=(subdomain_data['id'],), open=False)
+                    # Subdomain
+                    sub_id = self.domain_tree.insert(dom_id, "end", text=f"☐ {subdomain_data['header']}", values=(subdomain_data['id'],), open=False)
                     
-                    # Tasks (Optional, but good for context)
+                    # Tasks
                     for task in subdomain_data.get('tasks', []):
-                         # Extract Task Number from string (e.g., "1. Muscle anatomy...")
                          try:
                              task_num = task.split('.')[0].strip()
                              task_id = f"{subdomain_data['id']}.{task_num}"
-                             self.domain_tree.insert(sub_id, "end", text=task, values=(task_id,))
+                             self.domain_tree.insert(sub_id, "end", text=f"☐ {task}", values=(task_id,))
                          except:
-                             # Fallback if format is unexpected
-                             self.domain_tree.insert(sub_id, "end", text=task, values=(subdomain_data['id'],))
+                             self.domain_tree.insert(sub_id, "end", text=f"☐ {task}", values=(subdomain_data['id'],))
 
         return tree_frame
+
+    def toggle_selection(self, event):
+        # Identify specific element clicked (text, image, indicator, etc.)
+        element = self.domain_tree.identify_element(event.x, event.y)
+        
+        # If clicked on the expansion arrow (indicator), do nothing regarding selection
+        if "indicator" in element:
+            return
+
+        item_id = self.domain_tree.identify_row(event.y)
+        if not item_id:
+            return
+            
+        current_text = self.domain_tree.item(item_id, "text")
+        
+        # Determine target state
+        # If currently unchecked (☐), we want to Check (True)
+        # If currently checked (☑), we want to Uncheck (False)
+        is_currently_checked = current_text.startswith("☑ ")
+        target_check_state = not is_currently_checked
+        
+        def set_recursive_state(iid, check):
+            text = self.domain_tree.item(iid, "text")
+            
+            # Remove existing prefix if present to get clean text
+            clean_text = text
+            if text.startswith("☐ "):
+                clean_text = text[2:]
+            elif text.startswith("☑ "):
+                clean_text = text[2:]
+            
+            # Construct new text
+            prefix = "☑ " if check else "☐ "
+            new_text = prefix + clean_text
+            
+            self.domain_tree.item(iid, text=new_text)
+            
+            # Recurse to children
+            for child in self.domain_tree.get_children(iid):
+                set_recursive_state(child, check)
+
+        # Apply to clicked item and all descendants
+        set_recursive_state(item_id, target_check_state)
 
     def on_provider_select(self, event=None):
         provider = self.provider_var.get()
@@ -229,7 +274,7 @@ class App(tk.Tk):
 
         except Exception as e:
             self.output_text.insert(tk.END, f"\nTranslation Failed: {e}\n")
-    # -------------------------------
+    # ------------------------------- 
 
     def validate_api_key(self):
         provider = self.provider_var.get()
@@ -283,70 +328,83 @@ class App(tk.Tk):
             messagebox.showerror("Error", "Configuration is incomplete.")
             return
 
-        # Get Selected Outline Node
-        selected_item = self.domain_tree.focus()
-        if not selected_item:
-             messagebox.showwarning("Selection Error", "Please select a topic from the Outline.")
-             return
-             
-        item_values = self.domain_tree.item(selected_item, 'values')
-        if not item_values:
-            # Likely a section header without an ID or a task
-            # Try parent
-            parent_item = self.domain_tree.parent(selected_item)
-            item_values = self.domain_tree.item(parent_item, 'values')
-            
-            if not item_values:
-                messagebox.showwarning("Selection Error", "Please select a specific Subdomain or Task.")
-                return
+        # Find all Checked Items ("☑")
+        # Recursively walk the tree
+        selected_items = []
         
-        node_id = item_values[0]
-        item_text = self.domain_tree.item(selected_item, 'text')
+        def walk_tree(item_id):
+            text = self.domain_tree.item(item_id, "text")
+            values = self.domain_tree.item(item_id, "values")
+            
+            if text.startswith("☑ ") and values:
+                # It's selected and has an ID
+                selected_items.append({
+                    "id": values[0],
+                    "text": text[2:], # Remove checkmark
+                    "node_id": item_id
+                })
+            
+            for child in self.domain_tree.get_children(item_id):
+                walk_tree(child)
+        
+        for child in self.domain_tree.get_children(""):
+            walk_tree(child)
 
+        if not selected_items:
+             messagebox.showwarning("Selection Error", "Please check at least one topic (☑).")
+             return
+        
         self.output_text.delete("1.0", tk.END)
-        self.output_text.insert(tk.END, f"Analyzing content for: {item_text} (ID: {node_id})...")
-        self.output_text.insert(tk.END, f"\nSelected Cognitive Level: {cognitive_level}\n")
+        self.output_text.insert(tk.END, f"Starting Generation for {len(selected_items)} topics...\n")
+        self.output_text.insert(tk.END, f"Cognitive Level: {cognitive_level}\n")
         
         try:
-            # 1. Retrieve Context
-            context = self.content_orchestrator.get_context_for_node(node_id)
-            
-            key_terms = context.get('key_terms', [])
-            text_content = context.get('text_content', '')
-            examples = context.get('example_questions', [])
-            chapters = context.get('chapters', [])
-            
-            if not text_content:
-                self.output_text.insert(tk.END, "Error: No content found for this topic. It might not be mapped to a chapter yet.\n")
-                return
+            for item in selected_items:
+                node_id = item["id"]
+                item_text = item["text"]
+                
+                full_topic_content = "" # Reset for EACH topic (Individual Files)
 
-            self.output_text.insert(tk.END, f"Found {len(chapters)} relevant chapters.\n")
-            self.output_text.insert(tk.END, f"Found {len(key_terms)} Key Terms: {', '.join(key_terms[:10])}...")
-            self.output_text.insert(tk.END, "Starting Batch Generation...\n\n")
-
-            if not key_terms:
-                self.output_text.insert(tk.END, "Warning: No specific Key Terms found. Generating generic questions based on text.\n")
-                # Fallback to generic generation if needed, or create a dummy "General Concepts" term
-                key_terms = ["General Concepts"]
-
-            # 2. Batch Generation
-            batch_size = 5
-            for i in range(0, len(key_terms), batch_size):
-                batch_terms = key_terms[i:i+batch_size]
-                self.output_text.insert(tk.END, f"Processing Batch {i//batch_size + 1}: {', '.join(batch_terms)}")
+                section_header = f"\n{'='*40}\nTOPIC: {item_text} (ID: {node_id})\n{'='*40}\n"
+                self.output_text.insert(tk.END, section_header)
                 self.output_text.see(tk.END)
+                full_topic_content += section_header
+
+                # 1. Retrieve Context
+                context = self.content_orchestrator.get_context_for_node(node_id)
+                key_terms = context.get('key_terms', [])
+                text_content = context.get('text_content', '')
+                examples = context.get('example_questions', [])
                 
-                prompt = qa_generator.generate_batch_prompt(batch_terms, text_content, examples, cognitive_level)
+                if not text_content:
+                    msg = "Error: No content found for this topic. It might not be mapped to a chapter yet.\n"
+                    self.output_text.insert(tk.END, msg)
+                    continue
+
+                self.output_text.insert(tk.END, f"Found {len(key_terms)} Key Terms.\n")
                 
-                response = qa_generator.generate_qa_with_ai(provider, model_name, api_key, prompt)
+                if not key_terms:
+                    key_terms = ["General Concepts"]
+
+                # 2. Batch Generation
+                batch_size = 5
+                for i in range(0, len(key_terms), batch_size):
+                    batch_terms = key_terms[i:i+batch_size]
+                    self.output_text.insert(tk.END, f"  > Processing Batch {i//batch_size + 1}...")
+                    self.output_text.update()
+                    
+                    prompt = qa_generator.generate_batch_prompt(batch_terms, text_content, examples, cognitive_level)
+                    response = qa_generator.generate_qa_with_ai(provider, model_name, api_key, prompt)
+                    
+                    batch_output = f"\n--- Batch Results ({', '.join(batch_terms)}) ---\n{response}\n"
+                    self.output_text.insert(tk.END, " Done.\n")
+                    full_topic_content += batch_output
                 
-                self.output_text.insert(tk.END, f"\n--- Batch Results ---\n{response}\n\n")
+                # Save Logic (Individual File per Topic)
+                self._save_generated_qa(full_topic_content, node_id)
                 self.output_text.see(tk.END)
-            
-            self.output_text.insert(tk.END, "Generation Complete.\n")
-            
-            # Save Logic
-            self._save_generated_qa(self.output_text.get("1.0", tk.END), node_id)
+
+            self.output_text.insert(tk.END, "\nAll Tasks Complete.\n")
 
         except Exception as e:
             import traceback
@@ -356,12 +414,15 @@ class App(tk.Tk):
     def _save_generated_qa(self, content, topic_id):
         save_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'generated_qa')
         os.makedirs(save_dir, exist_ok=True)
-        filename = f"Topic_{topic_id}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.md"
+        
+        date_str = datetime.now().strftime('%Y%m%d')
+        filename = f"Topic_{topic_id}_{date_str}.md"
+            
         file_path = os.path.join(save_dir, filename)
         try:
             with open(file_path, 'w', encoding='utf-8') as f: f.write(content)
             self.last_saved_path = file_path
-            self.output_text.insert(tk.END, f"Full report saved to: {file_path}\n")
+            self.output_text.insert(tk.END, f"\n>>> Report saved: {filename}\n")
         except Exception as e:
             self.output_text.insert(tk.END, f"Failed to save report: {e}\n")
 

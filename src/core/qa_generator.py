@@ -77,11 +77,17 @@ Use strictly the text content provided below to derive the questions.
 """
     return prompt
 
-def translate_and_reorganize(content, provider, model_name, api_key):
+def translate_and_reorganize(content, provider, model_name, api_key, custom_prompt=None):
     """
     Translates and reorganizes the provided Q&A content into Simplified Chinese.
     """
-    prompt = f"""
+    if custom_prompt:
+        prompt = custom_prompt.replace("{content}", content)
+        # Fallback in case the user didn't include the placeholder
+        if content not in prompt and "{content}" not in custom_prompt:
+             prompt += f"\n\n**Source Content:**\n{content}"
+    else:
+        prompt = f"""
 You are an expert translator and educational content editor specializing in Strength and Conditioning (CSCS).
 
 **Your Task:**
