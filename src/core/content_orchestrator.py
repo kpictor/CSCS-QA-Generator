@@ -90,14 +90,7 @@ class ContentOrchestrator:
     def get_context_for_node(self, node_id):
         """
         Retrieves all necessary context for a specific Outline Node ID.
-        
-        Returns:
-            dict: {
-                "chapters": [list of filenames],
-                "text_content": "combined text content...",
-                "key_terms": [list of key terms],
-                "example_questions": [list of example questions]
-            }
+        Prioritizes specific Key Term mappings if available.
         """
         # 1. Get Chapter Identifiers from Metadata
         chapter_ids = self.metadata.get_chapters_for_node(node_id)
@@ -112,7 +105,15 @@ class ContentOrchestrator:
             "example_questions": []
         }
         
-        # 3. Aggregate Data
+        # 3. Try Specific Key Term Mapping First
+        specific_terms = self.metadata.get_key_terms_for_task(node_id)
+        if specific_terms:
+            context["key_terms"] = specific_terms
+            use_chapter_terms = False
+        else:
+            use_chapter_terms = True
+        
+        # 4. Aggregate Data
         for fname in filenames:
             # Content
             chapter_json = self.chapter_data.get(fname)
@@ -125,19 +126,20 @@ class ContentOrchestrator:
                     body = section.get('content', '')
                     context["text_content"] += f"### {heading}\n{body}\n"
 
-            # Key Terms & Questions
-            # We need the "Chapter X" key to lookup in metadata
+            # Key Terms & Questions (Only if specific terms weren't found)
             match = re.match(r'(Chapter)_(\d+)_', fname)
             if match:
                 short_key = f"{match.group(1)} {match.group(2)}" # "Chapter 1"
                 
-                terms = self.metadata.get_key_terms_for_chapter(short_key)
-                context["key_terms"].extend(terms)
+                if use_chapter_terms:
+                    terms = self.metadata.get_key_terms_for_chapter(short_key)
+                    context["key_terms"].extend(terms)
                 
                 questions = self.metadata.get_study_questions_for_chapter(short_key)
                 context["example_questions"].extend(questions)
 
-        # Deduplicate terms
-        context["key_terms"] = sorted(list(set(context["key_terms"])))
+        # Deduplicate terms if we used chapter aggregation
+        if use_chapter_terms:
+            context["key_terms"] = sorted(list(set(context["key_terms"])))
         
         return context

@@ -77,6 +77,35 @@ Use strictly the text content provided below to derive the questions.
 """
     return prompt
 
+def translate_and_reorganize(content, provider, model_name, api_key):
+    """
+    Translates and reorganizes the provided Q&A content into Simplified Chinese.
+    """
+    prompt = f"""
+You are an expert translator and educational content editor specializing in Strength and Conditioning (CSCS).
+
+**Your Task:**
+1. **Translate** the following Q&A content into **Simplified Chinese (简体中文)**.
+2. **Reorganize** the layout to make it highly readable and professional.
+3. **Terminology:** Ensure accurate translation of technical CSCS terms (e.g., "Stretch-Shortening Cycle" -> "牵拉-缩短周期", "Hypertrophy" -> "肌肥大").
+
+**Desired Output Format (for each question):**
+## 关键术语: [English Term] ([Chinese Term])
+**问题:** [Translated Question]
+A. [Translated Option A]
+B. [Translated Option B]
+C. [Translated Option C]
+
+**正确答案:** [Option]
+**解析:**
+[Translated Explanation]
+---
+
+**Source Content:**
+{content}
+"""
+    return generate_qa_with_ai(provider, model_name, api_key, prompt)
+
 def validate_and_fetch_models(provider, api_key):
     """Validates the API key and fetches models for the provider."""
     return ai_models.validate_and_fetch_models(provider, api_key)

@@ -205,6 +205,78 @@ def parse_exam_stats(file_path):
 
     return exam_stats
 
+def parse_key_term_map(file_path):
+    """
+    Parses key_term_to_outline_map.md to map Outline IDs (Tasks & Subdomains) to specific Key Terms.
+    Returns a dict: {'I.1.A': [all terms], 'I.1.A.1': [specific terms], ...}
+    """
+    mapping = {}
+    current_section_roman = "I" # Default
+    current_domain_num = "1"
+    current_subdomain_letter = "A"
+    current_task_num = "1"
+    
+    current_id_list = [] # List of IDs to add terms to (e.g. [I.1.A, I.1.A.1])
+
+    section_map = {"SCIENTIFIC FOUNDATIONS": "I", "PRACTICAL/APPLIED": "II"}
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line: continue
+
+            # Section
+            match_sec = re.match(r'^##\s+(.*)', line)
+            if match_sec:
+                sec_name = match_sec.group(1).strip()
+                # Simple heuristic check
+                for key, val in section_map.items():
+                    if key in sec_name:
+                        current_section_roman = val
+                continue
+            
+            # Domain
+            match_dom = re.match(r'^###\s+(\d+)\.', line)
+            if match_dom:
+                current_domain_num = match_dom.group(1)
+                continue
+
+            # Task Header: **Task:** A. Header - 1. Task Text
+            if line.startswith("**Task:**"):
+                # Regex to extract Subdomain Letter and Task Number
+                # Looks for: A. ... - 1. ...
+                # Be robust: sometimes spaces vary
+                # Group 1: Subdomain Letter (A)
+                # Group 2: Task Number (1)
+                match_task = re.search(r'([A-Z])\.\s+.*-\s*(\d+)\.', line)
+                if match_task:
+                    current_subdomain_letter = match_task.group(1)
+                    current_task_num = match_task.group(2)
+                    
+                    subdomain_id = f"{current_section_roman}.{current_domain_num}.{current_subdomain_letter}"
+                    task_id = f"{subdomain_id}.{current_task_num}"
+                    
+                    # Initialize lists if new
+                    if subdomain_id not in mapping: mapping[subdomain_id] = []
+                    if task_id not in mapping: mapping[task_id] = []
+                    
+                    current_id_list = [subdomain_id, task_id]
+                else:
+                    current_id_list = []
+                continue
+
+            # Key Term
+            if line.startswith("- ") and current_id_list:
+                term = line[2:].strip()
+                if term.lower() == "*no specific key terms mapped.*":
+                    continue
+                
+                for cid in current_id_list:
+                    if term not in mapping[cid]:
+                        mapping[cid].append(term)
+    
+    return mapping
+
 class MetadataManager:
     def __init__(self, base_path=None):
         if base_path is None:
@@ -213,10 +285,12 @@ class MetadataManager:
         self.exam_outline_path = os.path.join(base_path, 'data', 'metadata', 'ExamContentOutline.md')
         self.study_guide_path = os.path.join(base_path, 'data', 'metadata', 'study_guide.md')
         self.chapter_map_path = os.path.join(base_path, 'data', 'metadata', 'chapter_to_outline_map.json')
+        self.key_term_map_path = os.path.join(base_path, 'data', 'metadata', 'key_term_to_outline_map.md')
         
         self.exam_outline = self._load_exam_outline()
         self.study_guide_data = self._load_study_guide_data()
         self.chapter_mapping = self._load_chapter_mapping()
+        self.key_term_mapping = self._load_key_term_mapping()
         self.exam_weighting = self._load_exam_weighting()
 
     def _load_exam_outline(self):
@@ -240,7 +314,14 @@ class MetadataManager:
         except FileNotFoundError:
             print(f"Warning: {self.chapter_map_path} not found. Chapter mapping will be empty.")
             return {}
-            
+    
+    def _load_key_term_mapping(self):
+        try:
+            return parse_key_term_map(self.key_term_map_path)
+        except FileNotFoundError:
+            print(f"Warning: {self.key_term_map_path} not found. Key Term mapping will be empty.")
+            return {}
+
     def _load_exam_weighting(self):
         try:
             return parse_exam_stats(self.exam_outline_path)
@@ -249,6 +330,11 @@ class MetadataManager:
             return {}
 
     def get_chapters_for_node(self, node_id):
+        # If it's a Task ID (I.1.A.1), convert to Subdomain ID (I.1.A) for chapter lookup
+        parts = node_id.split('.')
+        if len(parts) == 4:
+            subdomain_id = f"{parts[0]}.{parts[1]}.{parts[2]}"
+            return self.chapter_mapping.get(subdomain_id, [])
         return self.chapter_mapping.get(node_id, [])
 
     def get_key_terms_for_chapter(self, chapter_name):
@@ -258,6 +344,9 @@ class MetadataManager:
     def get_study_questions_for_chapter(self, chapter_name):
         short_name = chapter_name.split(':')[0].strip()
         return self.study_guide_data.get(short_name, {}).get('study_questions', [])
+    
+    def get_key_terms_for_task(self, node_id):
+        return self.key_term_mapping.get(node_id, [])
 
 if __name__ == '__main__':
     # Example usage for testing
