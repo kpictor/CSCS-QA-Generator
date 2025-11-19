@@ -1,74 +1,79 @@
 from ..api import ai_models
+from .scenario_generator import ScenarioGenerator
 
 def generate_batch_prompt(key_terms, content, example_questions=None, cognitive_level="Recall"):
     """
     Generates a prompt to create questions for a specific list of Key Terms, 
-    tailored to a specific Cognitive Level.
+    tailored to a specific Cognitive Level, with Scenario Injection and Chain-of-Thought.
     """
     
-    # Cognitive Level Definitions
-    level_instructions = {
-        "Recall": """
-        **Cognitive Level: Recall**
-        - Focus on recognizing facts, concepts, principles, or procedures.
-        - Questions should ask "What is X?" or identifying definitions.
-        - Avoid complex scenarios. Stick to direct knowledge retrieval.
-        """,
-        "Application": """
-        **Cognitive Level: Application**
-        - Focus on applying knowledge to specific situations.
-        - Use "If, Then" scenarios.
-        - Include basic calculations or identifying relationships between concepts.
-        - Example: "If an athlete has X heart rate, what is their training zone?"
-        """,
-        "Analysis": """
-        **Cognitive Level: Analysis**
-        - Focus on evaluating multiple variables to determine the best course of action.
-        - Use complex scenarios involving athlete profiles (age, sport, training status, test results).
-        - Require the test-taker to synthesize information (e.g., identifying the weakest link in a performance profile).
-        """
-    }
+    # 1. Generate a Random Scenario for Context (Vital for Application/Analysis)
+    scenario_gen = ScenarioGenerator()
+    scenario_context = scenario_gen.generate_profile()
     
-    selected_instruction = level_instructions.get(cognitive_level, level_instructions["Recall"])
+    # 2. Cognitive Level Definitions & Logic
+    if cognitive_level == "Recall":
+        instruction = """
+        **Cognitive Level: Recall (Level 1)**
+        - **Goal:** Test specific knowledge of facts, definitions, or standard procedures.
+        - **Style:** Direct questions ("What is...", "Which of the following...").
+        - **Context:** You may ignore the specific athlete scenario if it complicates a simple definition, but prefer using it to frame the question if possible (e.g., "For this athlete, which muscle is...").
+        """
+    elif cognitive_level == "Application":
+        instruction = f"""
+        **Cognitive Level: Application (Level 2)**
+        - **Goal:** Apply knowledge to a specific situation.
+        - **Style:** "If, Then" scenarios. Calculations. interpretations.
+        - **Context:** **MANDATORY.** You MUST use the provided 'Scenario Context' (Athlete Profile) to frame the questions.
+        - **Requirement:** Connect the 'Key Term' to the 'Athlete's Goal' or 'Training Phase'.
+        """
+    else: # Analysis
+        instruction = f"""
+        **Cognitive Level: Analysis (Level 3 - Highest Complexity)**
+        - **Goal:** Evaluate multiple variables, synthesize information, and determine the *best* course of action among plausible alternatives.
+        - **Style:** Complex scenarios with competing factors (e.g., fatigue vs. intensity, age vs. volume).
+        - **Context:** **MANDATORY.** Use the 'Scenario Context'. 
+        - **Requirement:** The correct answer should not be obvious. It requires weighing the Athlete's Status against the Goal and the Key Term's physiological/mechanical implications.
+        """
 
     example_section = ""
     if example_questions:
-        # Limit examples to first 3 to save tokens but give flavor
-        formatted_examples = "\n\n".join(example_questions[:3])
-        example_section = f"""
-### Example Questions (Reference for Style only, stick to the requested Cognitive Level):
-{formatted_examples}
-"""
+        formatted_examples = "\n\n".join(example_questions[:2])
+        example_section = f"### Style Reference (Do not copy, just match tone):\n{formatted_examples}"
 
     terms_list = "\n".join([f"- {term}" for term in key_terms])
 
     prompt = f"""
-You are an expert CSCS (Certified Strength and Conditioning Specialist) exam question writer.
+You are a Lead CSCS Exam Writer. Your goal is to create "Gold Standard" exam questions that test true competency, not just memorization.
 
 **Your Task:**
 Generate exactly {len(key_terms)} multiple-choice questions.
-You must generate ONE question for EACH of the following Key Terms:
+ONE question for EACH of the following Key Terms:
 {terms_list}
 
-{selected_instruction}
+{scenario_context}
+
+{instruction}
 
 **Source Material:**
-Use strictly the text content provided below to derive the questions.
+Use the provided text content. If the text is insufficient, apply standard NSCA/CSCS principles.
 
-**Format Requirements:**
-1. **Question:** Clear, professional, CSCS-style. Adhere strictly to the **{cognitive_level}** level defined above.
-2. **Options:** Provide 3 plausible options (A, B, C).
-3. **Correct Answer:** Clearly state the correct option.
-4. **Explanation:** Briefly explain why the answer is correct based on the text.
-5. **Output Format:**
-   **Key Term: [Term Name]**
-   Question: ...
-   A. ...
-   B. ...
-   C. ...
-   Correct Answer: ...
-   Explanation: ...
-   (Separator) ---
+**Chain of Thought (Perform this internally for each question):**
+1. **Define:** Briefly recall the definition of the Key Term.
+2. **Contextualize:** How does this term apply to the {scenario_context.splitlines()[1]}?
+3. **Complicate:** What is a common misconception or a conflicting factor for this athlete?
+4. **Draft:** Create the question and the correct answer.
+5. **Distract:** Create 2 wrong answers that *look* correct to an untrained person (plausible distractors).
+
+**Output Format (Strictly follow this for parsing):**
+**Key Term: [Term Name]**
+Question: [Your high-quality question text]
+A. [Option A]
+B. [Option B]
+C. [Option C]
+Correct Answer: [Option Letter]
+Explanation: [Provide a detailed explanation. 1. Why the correct answer is right (referencing the text/principles). 2. Why the distractors are wrong/less optimal for this specific athlete.]
+(Separator) ---
 
 {example_section}
 
@@ -76,41 +81,6 @@ Use strictly the text content provided below to derive the questions.
 {content}
 """
     return prompt
-
-def translate_and_reorganize(content, provider, model_name, api_key, custom_prompt=None):
-    """
-    Translates and reorganizes the provided Q&A content into Simplified Chinese.
-    """
-    if custom_prompt:
-        prompt = custom_prompt.replace("{content}", content)
-        # Fallback in case the user didn't include the placeholder
-        if content not in prompt and "{content}" not in custom_prompt:
-             prompt += f"\n\n**Source Content:**\n{content}"
-    else:
-        prompt = f"""
-You are an expert translator and educational content editor specializing in Strength and Conditioning (CSCS).
-
-**Your Task:**
-1. **Translate** the following Q&A content into **Simplified Chinese (简体中文)**.
-2. **Reorganize** the layout to make it highly readable and professional.
-3. **Terminology:** Ensure accurate translation of technical CSCS terms (e.g., "Stretch-Shortening Cycle" -> "牵拉-缩短周期", "Hypertrophy" -> "肌肥大").
-
-**Desired Output Format (for each question):**
-## 关键术语: [English Term] ([Chinese Term])
-**问题:** [Translated Question]
-A. [Translated Option A]
-B. [Translated Option B]
-C. [Translated Option C]
-
-**正确答案:** [Option]
-**解析:**
-[Translated Explanation]
----
-
-**Source Content:**
-{content}
-"""
-    return generate_qa_with_ai(provider, model_name, api_key, prompt)
 
 def validate_and_fetch_models(provider, api_key):
     """Validates the API key and fetches models for the provider."""

@@ -73,48 +73,15 @@ class App(tk.Tk):
         self.generate_qa_button = ttk.Button(gen_controls_frame, text="Generate Q&A", command=self.start_qa_generation_thread, state=tk.DISABLED)
         self.generate_qa_button.grid(row=4, column=0, columnspan=2, pady=10, sticky=tk.EW)
 
-        # --- Post-Processing Frame (Translation) ---
-        pp_frame = ttk.LabelFrame(main_frame, text="Post-Processing (Translation)", padding="10")
-        pp_frame.pack(fill=tk.X, pady=5)
-        
-        # Translation Configuration (Independent of Generation)
-        ttk.Label(pp_frame, text="Provider:").grid(row=0, column=0, padx=5, pady=5)
-        self.trans_provider_var = tk.StringVar(value="Gemini")
-        self.trans_provider_menu = ttk.Combobox(pp_frame, textvariable=self.trans_provider_var, values=["Gemini", "OpenAI", "Qwen", "Claude"], state="readonly", width=10)
-        self.trans_provider_menu.grid(row=0, column=1, padx=5, pady=5)
-        self.trans_provider_menu.bind("<<ComboboxSelected>>", self.on_trans_provider_select)
-
-        ttk.Label(pp_frame, text="Key:").grid(row=0, column=2, padx=5, pady=5)
-        self.trans_api_key_var = tk.StringVar()
-        self.trans_api_key_entry = ttk.Entry(pp_frame, textvariable=self.trans_api_key_var, show='*', width=15)
-        self.trans_api_key_entry.grid(row=0, column=3, padx=5, pady=5)
-
-        ttk.Label(pp_frame, text="Model:").grid(row=0, column=4, padx=5, pady=5)
-        self.trans_model_var = tk.StringVar()
-        self.trans_model_menu = ttk.Combobox(pp_frame, textvariable=self.trans_model_var, state="disabled", width=20)
-        self.trans_model_menu.grid(row=0, column=5, padx=5, pady=5)
-        
-        # Validate Button for Translation (Small)
-        self.trans_validate_btn = ttk.Button(pp_frame, text="✓", width=3, command=self.validate_trans_key)
-        self.trans_validate_btn.grid(row=0, column=6, padx=2)
-
-        self.translate_btn = ttk.Button(pp_frame, text="Reorganize & Translate to Chinese", command=self.start_translation_thread, state=tk.DISABLED)
-        self.translate_btn.grid(row=0, column=7, padx=10, pady=5, sticky=tk.EW)
-        
-        pp_frame.columnconfigure(7, weight=1)
-
         # --- Output Area ---
         output_frame = ttk.LabelFrame(main_frame, text="Generation Output", padding="10")
         output_frame.pack(fill=tk.BOTH, expand=True, pady=5)
         self.output_text = scrolledtext.ScrolledText(output_frame, wrap=tk.WORD, width=80, height=20)
         self.output_text.pack(fill=tk.BOTH, expand=True)
 
-        self.last_saved_path = None
-
         # Initialize
         self.on_provider_select()
         self.on_generation_mode_select()
-        self.on_trans_provider_select()
 
     def _create_domain_treeview(self, parent):
         tree_frame = ttk.Frame(parent)
@@ -201,88 +168,20 @@ class App(tk.Tk):
         # Apply to clicked item and all descendants
         set_recursive_state(item_id, target_check_state)
 
-    def on_provider_select(self, event=None):
-        provider = self.provider_var.get()
-        self.api_key_var.set(self.config_manager.get(f"{provider.upper()}_API_KEY", ""))
-        self.validation_status_label.config(text="")
-        self.ai_model_menu.set('')
-        self.ai_model_menu.config(state="disabled")
-        self.generate_qa_button.config(state="disabled")
-
-    # --- Translation UI Handlers ---
-    def on_trans_provider_select(self, event=None):
-        provider = self.trans_provider_var.get()
-        # Try to pre-fill with the main key if available, otherwise empty
-        existing_key = self.config_manager.get(f"{provider.upper()}_API_KEY", "")
-        self.trans_api_key_var.set(existing_key)
-        self.trans_model_menu.set('')
-        self.trans_model_menu.config(state="disabled")
-        self.translate_btn.config(state="disabled")
-
-    def validate_trans_key(self):
-        provider = self.trans_provider_var.get()
-        api_key = self.trans_api_key_var.get()
-        if not api_key:
-             messagebox.showwarning("Input Error", "Please enter a Translation API key.")
-             return
-        
-        models = qa_generator.validate_and_fetch_models(provider, api_key)
-        if models:
-            self.trans_model_menu['values'] = models
-            self.trans_model_menu.config(state="readonly")
-            if models: self.trans_model_menu.set(models[0])
-            self.translate_btn.config(state="normal")
-        else:
-            messagebox.showerror("Error", "Invalid Key for Translation Provider")
-
-    def start_translation_thread(self):
-        threading.Thread(target=self.run_translation_logic, daemon=True).start()
-
-    def run_translation_logic(self):
-        content = self.output_text.get("1.0", tk.END).strip()
-        if not content or "Analyzing content for:" in content and len(content) < 200:
-            self.output_text.insert(tk.END, "\n[Error] No generated content found to translate.\n")
-            return
-
-        provider = self.trans_provider_var.get()
-        model = self.trans_model_var.get()
-        api_key = self.trans_api_key_var.get()
-
-        self.output_text.insert(tk.END, f"\n\n--- Starting Translation ({provider} : {model}) ---\n")
-        self.output_text.see(tk.END)
-
-        try:
-            translated_text = qa_generator.translate_and_reorganize(content, provider, model, api_key)
-            
-            self.output_text.insert(tk.END, f"\n--- Translation Result ---\n{translated_text}\n")
-            self.output_text.see(tk.END)
-
-            # Save Translation
-            if self.last_saved_path:
-                base, ext = os.path.splitext(self.last_saved_path)
-                new_path = f"{base}_CN{ext}"
-                with open(new_path, 'w', encoding='utf-8') as f:
-                    f.write(translated_text)
-                self.output_text.insert(tk.END, f"\nTranslated file saved to: {new_path}\n")
-            else:
-                # Fallback if no previous save (unlikely if flow followed)
-                save_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'generated_qa')
-                filename = f"Translated_QA_{datetime.now().strftime('%Y%m%d_%H%M%S')}.md"
-                path = os.path.join(save_dir, filename)
-                with open(path, 'w', encoding='utf-8') as f: f.write(translated_text)
-                self.output_text.insert(tk.END, f"\nTranslated file saved to: {path}\n")
-
-        except Exception as e:
-            self.output_text.insert(tk.END, f"\nTranslation Failed: {e}\n")
-    # ------------------------------- 
-
-    def validate_api_key(self):
-        provider = self.provider_var.get()
-        api_key = self.api_key_var.get()
-        if not api_key:
-            messagebox.showwarning("Input Error", "Please enter an API key.")
-            return
-
+        def on_provider_select(self, event=None):
+            provider = self.provider_var.get()
+            self.api_key_var.set(self.config_manager.get(f"{provider.upper()}_API_KEY", ""))
+            self.validation_status_label.config(text="")
+            self.ai_model_menu.set('')
+            self.ai_model_menu.config(state="disabled")
+            self.generate_qa_button.config(state="disabled")
+    
+        def validate_api_key(self):
+            provider = self.provider_var.get()
+            api_key = self.api_key_var.get()
+            if not api_key:
+                messagebox.showwarning("Input Error", "Please enter an API key.")
+                return
         self.validation_status_label.config(text="Validating...", foreground="orange")
         self.update_idletasks()
         models = qa_generator.validate_and_fetch_models(provider, api_key)
