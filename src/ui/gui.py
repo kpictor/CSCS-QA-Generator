@@ -59,14 +59,19 @@ class App(tk.Tk):
         self.generation_mode_menu.grid(row=1, column=1, padx=5, pady=5, sticky=tk.EW)
         self.generation_mode_menu.bind("<<ComboboxSelected>>", self.on_generation_mode_select)
 
+        ttk.Label(gen_controls_frame, text="Cognitive Level:").grid(row=2, column=0, padx=5, pady=5, sticky=tk.W)
+        self.cognitive_level_var = tk.StringVar(value="Recall")
+        self.cognitive_level_menu = ttk.Combobox(gen_controls_frame, textvariable=self.cognitive_level_var, values=["Recall", "Application", "Analysis"], state="readonly")
+        self.cognitive_level_menu.grid(row=2, column=1, padx=5, pady=5, sticky=tk.EW)
+
         # Dynamic Content Area (Treeview)
         self.dynamic_options_frame = ttk.Frame(gen_controls_frame)
-        self.dynamic_options_frame.grid(row=2, column=0, columnspan=2, sticky=tk.NSEW, pady=5)
-        gen_controls_frame.rowconfigure(2, weight=1)
+        self.dynamic_options_frame.grid(row=3, column=0, columnspan=2, sticky=tk.NSEW, pady=5)
+        gen_controls_frame.rowconfigure(3, weight=1)
         self.dynamic_options_frame.columnconfigure(0, weight=1)
 
         self.generate_qa_button = ttk.Button(gen_controls_frame, text="Generate Q&A", command=self.start_qa_generation_thread, state=tk.DISABLED)
-        self.generate_qa_button.grid(row=3, column=0, columnspan=2, pady=10, sticky=tk.EW)
+        self.generate_qa_button.grid(row=4, column=0, columnspan=2, pady=10, sticky=tk.EW)
 
         # --- Output Area ---
         output_frame = ttk.LabelFrame(main_frame, text="Generation Output", padding="10")
@@ -165,6 +170,7 @@ class App(tk.Tk):
         api_key = self.api_key_var.get()
         model_name = self.ai_model_var.get()
         provider = self.provider_var.get()
+        cognitive_level = self.cognitive_level_var.get()
 
         if not all([api_key, model_name, provider]):
             messagebox.showerror("Error", "Configuration is incomplete.")
@@ -192,6 +198,7 @@ class App(tk.Tk):
 
         self.output_text.delete("1.0", tk.END)
         self.output_text.insert(tk.END, f"Analyzing content for: {item_text} (ID: {node_id})...")
+        self.output_text.insert(tk.END, f"\nSelected Cognitive Level: {cognitive_level}\n")
         
         try:
             # 1. Retrieve Context
@@ -222,7 +229,7 @@ class App(tk.Tk):
                 self.output_text.insert(tk.END, f"Processing Batch {i//batch_size + 1}: {', '.join(batch_terms)}")
                 self.output_text.see(tk.END)
                 
-                prompt = qa_generator.generate_batch_prompt(batch_terms, text_content, examples)
+                prompt = qa_generator.generate_batch_prompt(batch_terms, text_content, examples, cognitive_level)
                 
                 response = qa_generator.generate_qa_with_ai(provider, model_name, api_key, prompt)
                 

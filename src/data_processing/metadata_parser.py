@@ -2,68 +2,6 @@ import re
 import os
 import json
 
-def parse_match_analysis(file_path):
-    """
-    Parses Match analysis.md to map Outline Tasks to Study Guide Chapters.
-    Returns a dictionary where keys are Outline Node IDs (e.g., "I.1.A") or Headers,
-    and values are lists of Chapter titles.
-    """
-    mapping = {}
-    current_section_roman = None
-    current_domain_number = None
-    current_subdomain_letter = None
-    
-    with open(file_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            
-            # Match Section (e.g., ## I. SCIENTIFIC FOUNDATIONS)
-            section_match = re.match(r'^##\s+([IVX]+)\.\s+(.*)', line)
-            if section_match:
-                current_section_roman = section_match.group(1)
-                current_domain_number = None
-                current_subdomain_letter = None
-                continue
-
-            # Match Domain (e.g., ### 1. EXERCISE SCIENCES)
-            domain_match = re.match(r'^###\s+(\d+)\.\s+(.*)', line)
-            if domain_match:
-                current_domain_number = domain_match.group(1)
-                current_subdomain_letter = None
-                continue
-
-            # Match Subdomain (e.g., #### [cite_start]A. Apply Knowledge... or #### A. Apply...)
-            subdomain_match = re.match(r'^####\s*(?:\[cite_start\])?([A-Z])\.\s+(.*)', line)
-            if subdomain_match and current_section_roman and current_domain_number:
-                current_subdomain_letter = subdomain_match.group(1)
-                # Construct a unique key: "I.1.A"
-                node_key = f"{current_section_roman}.{current_domain_number}.{current_subdomain_letter}"
-                mapping[node_key] = []
-                continue
-
-            # Match Chapter Link (e.g., * **Chapter 1: Structure...**)
-            if current_subdomain_letter and "* **Chapter" in line:
-                clean_line = line.replace('*', '').replace('**', '').strip()
-                
-                # Try to match the full string "Chapter \d+: .*"
-                # Regex explanation:
-                # Chapter\s+\d+: -> Matches "Chapter 1:"
-                # .* -> Matches the rest of the title
-                # [^(\n]* -> Stops before parentheses (often used for descriptions like "(Covers...)")
-                full_title_match = re.match(r'(Chapter\s+\d+:\s*[^(\n]*)', clean_line)
-                
-                if full_title_match:
-                     mapping[f"{current_section_roman}.{current_domain_number}.{current_subdomain_letter}"].append(full_title_match.group(1).strip())
-                else:
-                    # Fallback for "Chapter 5 & 6" or just "Chapter 1" without title
-                    chapters_found = re.findall(r'Chapter\s+(\d+)', clean_line)
-                    for chap_num in chapters_found:
-                         mapping[f"{current_section_roman}.{current_domain_number}.{current_subdomain_letter}"].append(f"Chapter {chap_num}")
-
-    return mapping
-
 def parse_exam_content_outline(file_path):
     """Parses the ExamContentOutline.md file into a hierarchical dictionary."""
     outline = {}
@@ -274,11 +212,11 @@ class MetadataManager:
         
         self.exam_outline_path = os.path.join(base_path, 'data', 'metadata', 'ExamContentOutline.md')
         self.study_guide_path = os.path.join(base_path, 'data', 'metadata', 'study_guide.md')
-        self.match_analysis_path = os.path.join(base_path, 'data', 'metadata', 'Match analysis.md')
+        self.chapter_map_path = os.path.join(base_path, 'data', 'metadata', 'chapter_to_outline_map.json')
         
         self.exam_outline = self._load_exam_outline()
         self.study_guide_data = self._load_study_guide_data()
-        self.chapter_mapping = self._load_match_analysis()
+        self.chapter_mapping = self._load_chapter_mapping()
         self.exam_weighting = self._load_exam_weighting()
 
     def _load_exam_outline(self):
@@ -295,11 +233,12 @@ class MetadataManager:
             print(f"Warning: {self.study_guide_path} not found. Study guide data will be empty.")
             return {}
 
-    def _load_match_analysis(self):
+    def _load_chapter_mapping(self):
         try:
-            return parse_match_analysis(self.match_analysis_path)
+            with open(self.chapter_map_path, 'r', encoding='utf-8') as f:
+                return json.load(f)
         except FileNotFoundError:
-            print(f"Warning: {self.match_analysis_path} not found. Chapter mapping will be empty.")
+            print(f"Warning: {self.chapter_map_path} not found. Chapter mapping will be empty.")
             return {}
             
     def _load_exam_weighting(self):

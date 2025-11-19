@@ -1,0 +1,262 @@
+{
+    "I.1.A": [
+        "Chapter 7",
+        "Chapter 1",
+        "Chapter 3"
+    ],
+    "I.1.B": [
+        "Chapter 7",
+        "Chapter 3",
+        "Chapter 2",
+        "Chapter 16"
+    ],
+    "I.1.C": [
+        "Chapter 7",
+        "Chapter 2",
+        "Chapter 3"
+    ],
+    "I.1.D": [
+        "Chapter 7",
+        "Chapter 3"
+    ],
+    "I.1.E": [
+        "Chapter 3",
+        "Chapter 7"
+    ],
+    "I.1.F": [
+        "Chapter 4",
+        "Chapter 7",
+        "Chapter 3"
+    ],
+    "I.1.G": [
+        "Chapter 7",
+        "Chapter 3"
+    ],
+    "I.1.H": [
+        "Chapter 17",
+        "Chapter 1",
+        "Chapter 2",
+        "Chapter 5",
+        "Chapter 6",
+        "Chapter 3",
+        "Chapter 16"
+    ],
+    "I.1.I": [
+        "Chapter 10",
+        "Chapter 1",
+        "Chapter 3",
+        "Chapter 8",
+        "Chapter 17"
+    ],
+    "I.1.J": [
+        "Chapter 2",
+        "Chapter 3",
+        "Chapter 4",
+        "Chapter 17",
+        "Chapter 7",
+        "Chapter 9",
+        "Chapter 20",
+        "Chapter 23",
+        "Chapter 1",
+        "Chapter 15",
+        "Chapter 16",
+        "Chapter 18",
+        "Chapter 19"
+    ],
+    "I.2.A": [
+        "Chapter 8",
+        "Chapter 10"
+    ],
+    "I.2.B": [
+        "Chapter 9",
+        "Chapter 1",
+        "Chapter 2",
+        "Chapter 3"
+    ],
+    "I.3.A": [
+        "Chapter 9",
+        "Chapter 10"
+    ],
+    "I.3.B": [
+        "Chapter 11",
+        "Chapter 8"
+    ],
+    "II.1.A": [
+        "Chapter 3",
+        "Chapter 5",
+        "Chapter 17",
+        "Chapter 8",
+        "Chapter 16",
+        "Chapter 6",
+        "Chapter 18",
+        "Chapter 19",
+        "Chapter 20"
+    ],
+    "II.1.B": [
+        "Chapter 19",
+        "Chapter 17",
+        "Chapter 2",
+        "Chapter 16",
+        "Chapter 14",
+        "Chapter 18",
+        "Chapter 20",
+        "Chapter 6"
+    ],
+    "II.1.C": [
+        "Chapter 3",
+        "Chapter 17",
+        "Chapter 5",
+        "Chapter 1",
+        "Chapter 8",
+        "Chapter 16",
+        "Chapter 19",
+        "Chapter 14",
+        "Chapter 15",
+        "Chapter 18",
+        "Chapter 20"
+    ],
+    "II.1.D": [
+        "Chapter 2",
+        "Chapter 1",
+        "Chapter 16",
+        "Chapter 3",
+        "Chapter 15",
+        "Chapter 7",
+        "Chapter 19"
+    ],
+    "II.1.E": [
+        "Chapter 15",
+        "Chapter 16",
+        "Chapter 2",
+        "Chapter 3",
+        "Chapter 1",
+        "Chapter 17",
+        "Chapter 20"
+    ],
+    "II.1.F": [
+        "Chapter 3",
+        "Chapter 5",
+        "Chapter 15",
+        "Chapter 16",
+        "Chapter 17",
+        "Chapter 18",
+        "Chapter 19",
+        "Chapter 20",
+        "Chapter 6",
+        "Chapter 14"
+    ],
+    "II.1.G": [
+        "Chapter 3",
+        "Chapter 17",
+        "Chapter 16",
+        "Chapter 20",
+        "Chapter 5",
+        "Chapter 15",
+        "Chapter 19"
+    ],
+    "II.1.H": [
+        "Chapter 3",
+        "Chapter 4",
+        "Chapter 7",
+        "Chapter 2",
+        "Chapter 15",
+        "Chapter 16"
+    ],
+    "II.1.I": [
+        "Chapter 21"
+    ],
+    "II.1.J": [
+        "Chapter 17",
+        "Chapter 6",
+        "Chapter 22",
+        "Chapter 23",
+        "Chapter 5",
+        "Chapter 18",
+        "Chapter 19",
+        "Chapter 20"
+    ],
+    "II.1.K": [
+        "Chapter 17",
+        "Chapter 18",
+        "Chapter 19",
+        "Chapter 20",
+        "Chapter 23"
+    ],
+    "II.2.A": [
+        "Chapter 1",
+        "Chapter 14",
+        "Chapter 8",
+        "Chapter 2",
+        "Chapter 15",
+        "Chapter 16",
+        "Chapter 19",
+        "Chapter 18",
+        "Chapter 20"
+    ],
+    "II.2.B": [
+        "Chapter 15",
+        "Chapter 17",
+        "Chapter 16"
+    ],
+    "II.2.C": [
+        "Chapter 19",
+        "Chapter 18"
+    ],
+    "II.2.D": [
+        "Chapter 3"
+    ],
+    "II.2.E": [
+        "Chapter 2",
+        "Chapter 19",
+        "Chapter 20",
+        "Chapter 1",
+        "Chapter 15",
+        "Chapter 16",
+        "Chapter 18"
+    ],
+    "II.3.A": [
+        "Chapter 3",
+        "Chapter 17",
+        "Chapter 5",
+        "Chapter 16",
+        "Chapter 19",
+        "Chapter 1",
+        "Chapter 14",
+        "Chapter 18",
+        "Chapter 20"
+    ],
+    "II.3.B": [
+        "Chapter 12",
+        "Chapter 13"
+    ],
+    "II.3.C": [
+        "Chapter 17",
+        "Chapter 3",
+        "Chapter 18",
+        "Chapter 19",
+        "Chapter 20"
+    ],
+    "II.4.A": [
+        "Chapter 24"
+    ],
+    "II.4.B": [
+        "Chapter 24",
+        "Chapter 23"
+    ],
+    "II.4.C": [
+        "Chapter 24",
+        "Chapter 23"
+    ],
+    "II.4.D": [
+        "Chapter 5",
+        "Chapter 3",
+        "Chapter 6",
+        "Chapter 16",
+        "Chapter 17",
+        "Chapter 18",
+        "Chapter 19",
+        "Chapter 20",
+        "Chapter 14",
+        "Chapter 15"
+    ]
+}
