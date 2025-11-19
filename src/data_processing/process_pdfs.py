@@ -59,8 +59,14 @@ def structure_text(text):
 
 def main():
     """Main function to process all PDFs."""
-    pdf_directory = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'data', 'pdfs'))
-    output_directory = os.path.join(os.path.dirname(__file__), 'processed_chapters')
+    # content is in data/pdfs (root/data/pdfs)
+    # script is in src/data_processing
+    # so we need to go up two levels to get to root
+    pdf_directory = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'pdfs'))
+    
+    # output should be in src/processed_chapters
+    # so we need to go up one level from src/data_processing
+    output_directory = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'processed_chapters'))
 
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)

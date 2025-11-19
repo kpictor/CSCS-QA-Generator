@@ -1,0 +1,25871 @@
+# Exam Outline to Key Term Mapping
+
+This file shows the automatically generated mapping between CSCS exam outline tasks and the key terms from the textbook.
+
+## PRACTICAL / APPLIED
+
+### 1. PROGRAM DESIGN
+
+**Task:** A. Conduct Needs Analysis - 1. Evaluate the sport (movement, physiological, injury analysis)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** A. Conduct Needs Analysis - 2. Review the athlete's history (injury history, training status) and primary training goals)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** A. Conduct Needs Analysis - 3. Select assessments (screening, performance testing, and monitoring)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** A. Conduct Needs Analysis - 4. Analyze and benchmark assessment results
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** A. Conduct Needs Analysis - 5. Communicate recommendations based on the needs analysis to stakeholders
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** B. Incorporate Various Training Methods and Modes - 1. Different types of physical preparation goals or outcomes (e.g., muscular endurance, hypertrophy, strength, power, energy system development)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** B. Incorporate Various Training Methods and Modes - 2. Different types of training methods and modes (e.g., resistance training, plyometric, speed/sprint, agility, mobility/flexibility)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** C. Select Exercises - 1. Exercises relevant to the qualities and capacities desired within the training period
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** C. Select Exercises - 2. Exercises to minimize injury potential (e.g., tendon loading, collision preparation)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** C. Select Exercises - 3. Exercises relevant to available facility, equipment, and staff
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** C. Select Exercises - 4. Exercises relevant to individual injured athlete adjustments
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** D. Determine Exercise Order - 1. Order of exercises based on the session goals
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** D. Determine Exercise Order - 2. Order of exercises based on mechanical or metabolic interference (e.g., large to small muscle groups, speed of movement, alternating upper body exercises with lower body exercises)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** E. Determine Exercise Intensities - 1. Methods for assigning mechanical (external) load (e.g., a percent of the 1RM or the athlete's body weight, RM loads, RPE) based on training and session goals
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** E. Determine Exercise Intensities - 2. Methods for assigning metabolic (internal) load (e.g., Karvonen method)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** G. Determine Work:Rest Periods, Recovery and Unloading, and Training - 1. Determine work:rest periods between reps, sets, and exercises based on session goals
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** G. Determine Work:Rest Periods, Recovery and Unloading, and Training - 2. Determine recovery periods between sessions (e.g., daily, weekly)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** G. Determine Work:Rest Periods, Recovery and Unloading, and Training - 3. Determine training frequency within a microcycle (e.g., training week)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** G. Determine Work:Rest Periods, Recovery and Unloading, and Training - 4. Determine recovery and unloading phases within the macrocycle (e.g., training year)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** I. Identify Periodization Strategies - 1. Determine strategy based on demands of sport, athlete/team needs, training age, and training goals (e.g., linear, nonlinear)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** I. Identify Periodization Strategies - 2. Determine strategy based on phase/period/cycle goals (e.g., off season, pre-season, in season)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+### 2. EXERCISE TECHNIQUE
+
+**Task:** A. Teach and Evaluate Movement Preparation (soft tissue and flexibility/mobility, PNF, CNS prep, dynamic stretching) - 1. Provide a demonstration or explanation of movement patterns and technique (e.g., body and limb positions, movement mechanics, breathing)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** A. Teach and Evaluate Movement Preparation (soft tissue and flexibility/mobility, PNF, CNS prep, dynamic stretching) - 2. Assess, cue, and modify based on arousal, focus, competency, and safety
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** B. Teach and Evaluate Resistance Training Technique - 1. Free weight training equipment (e.g., barbells, dumbbells, kettlebells)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** B. Teach and Evaluate Resistance Training Technique - 2. Resistance machine (e.g., pulley, cam, hydraulic)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** B. Teach and Evaluate Resistance Training Technique - 3. Alternative resistance equipment (e.g., sleds, logs, tires, flywheels, ropes, sandbags, medicine balls, resistance bands)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** B. Teach and Evaluate Resistance Training Technique - 4. Olympic Weightlifting and Derivatives (e.g., high pull, push jerk, power pull)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** C. Teach and Evaluate Speed, Agility, and Plyometric Technique (e.g., linear and multidirectional sprints, change of direction, hops, jumps, bounds) - 1. Demonstrate or explain movement patterns and technique (e.g., acceleration, deceleration, change of direction)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** C. Teach and Evaluate Speed, Agility, and Plyometric Technique (e.g., linear and multidirectional sprints, change of direction, hops, jumps, bounds) - 2. Engage safety protocol based on athlete, environment, and equipment needs (e.g., set up)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** C. Teach and Evaluate Speed, Agility, and Plyometric Technique (e.g., linear and multidirectional sprints, change of direction, hops, jumps, bounds) - 3. Assess, cue, and modify based on arousal, focus, competency, and safety
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** D. Teach and Evaluate Energy System Development (Bioenergetics) - 1. Explain the purpose and the goals of the conditioning session including intensity and duration
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** D. Teach and Evaluate Energy System Development (Bioenergetics) - 2. Observe individual athlete responses and adjust accordingly (e.g., modify recovery periods/modalities based on athlete competency and safety concerns)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** E. Teach and Evaluate Restoration Techniques (e.g., breathing, stretching, active recovery) - 1. Explain the purpose and goals of the restoration technique
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** E. Teach and Evaluate Restoration Techniques (e.g., breathing, stretching, active recovery) - 2. Facilitate the restoration activity
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+### 3. PROGRAM IMPLEMENTATION
+
+**Task:** A. Coach athletes through training sessions - 1. Prepare for sessions, define roles and responsibilities, set expectations
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** A. Coach athletes through training sessions - 2. Apply knowledge of motor learning and skill development (e.g., internal/external cues, progression/regression, demonstrations)
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** A. Coach athletes through training sessions - 3. Use active observation and data collection to provide feedback and evaluate progress toward expectations
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** A. Coach athletes through training sessions - 4. Reflect on the session through debrief and evaluation of coaching effectiveness
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** B. Administer Testing and Implement Monitoring Procedures - 1. Determine equipment and protocols to assess physical characteristics (e.g., strength, power, speed, aerobic capacity) and monitor readiness (e.g., practice loads, game loads, HRV)
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** B. Administer Testing and Implement Monitoring Procedures - 2. Conduct testing and monitoring procedures (e.g., data collection and organization, warm-up, how to test, rest between trials, athlete readiness)
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** C. Evaluate, Interpret, and Communicate Assessment Results - 1. Evaluate the validity of test implementation and results
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** C. Evaluate, Interpret, and Communicate Assessment Results - 2. Analyze the results in accordance with program plan (e.g., trend analysis, descriptive statistics)
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** C. Evaluate, Interpret, and Communicate Assessment Results - 3. Synthesize, communicate, and discuss results with stakeholders while maintaining information privacy
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** C. Evaluate, Interpret, and Communicate Assessment Results - 4. Adjust the training program based on results and feedback from stakeholders
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+## SCIENTIFIC FOUNDATIONS
+
+### 1. EXERCISE SCIENCES
+
+**Task:** A. Apply Knowledge of Muscle Anatomy and Physiology - 1. Muscle anatomy (e.g., muscle group names, specific muscle names, muscle fiber/cell structure)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** A. Apply Knowledge of Muscle Anatomy and Physiology - 2. Muscular dynamics involved during movement patterns (e.g., sliding filament theory, type of muscle action)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** A. Apply Knowledge of Muscle Anatomy and Physiology - 3. Individual differences among various types of athlete (biological age, training age, biological sex)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** B. Apply Knowledge of Neuromuscular Anatomy and Physiology - 1. Neuromuscular anatomy (e.g., motor unit, muscle fiber type, muscle spindle, Golgi tendon organ)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** B. Apply Knowledge of Neuromuscular Anatomy and Physiology - 2. Neuromuscular responses to exercise (e.g., motor unit recruitment patterns, nerve conduction, summation)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** B. Apply Knowledge of Neuromuscular Anatomy and Physiology - 3. Individual differences among various types of athletes (biological age, training age, biological sex)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** C. Apply Knowledge of Basic Principles of Biomechanics Regarding Exercise Selection, Execution, and Sport Performance - 1. Kinematic principles of movement (e.g., anatomical planes of movement, joint angles, velocity)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** C. Apply Knowledge of Basic Principles of Biomechanics Regarding Exercise Selection, Execution, and Sport Performance - 2. Kinetic laws and principles of movement (e.g., momentum, torque, power, work, force, center of gravity, impulse, center of pressure, force-velocity curve, force-time curve, isometric/isotonic/isokinetic, lever systems)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** C. Apply Knowledge of Basic Principles of Biomechanics Regarding Exercise Selection, Execution, and Sport Performance - 3. Role of muscles in movement (e.g., agonist, antagonist, synergist, neutralizer, stabilizer)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** C. Apply Knowledge of Basic Principles of Biomechanics Regarding Exercise Selection, Execution, and Sport Performance - 4. Individual differences among various types of athletes (biological age, training age, biological sex)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** D. Apply Knowledge of Bone and Connective Tissue (tendons and ligaments) Anatomy and Physiology - 1. Bone and connective tissue anatomy
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** D. Apply Knowledge of Bone and Connective Tissue (tendons and ligaments) Anatomy and Physiology - 2. Bone and connective tissue responses to exercise and training
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** D. Apply Knowledge of Bone and Connective Tissue (tendons and ligaments) Anatomy and Physiology - 3. Individual differences among various types of athletes (biological age, training age, biological sex)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** E. Apply Knowledge of Bioenergetics and Metabolism - 1. Characteristics of the energy systems
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** E. Apply Knowledge of Bioenergetics and Metabolism - 2. Effects of manipulating training variables (e.g., mode, intensity, duration, volume and work:rest ratio) to target specific energy systems
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** E. Apply Knowledge of Bioenergetics and Metabolism - 3. Individual differences among various types of athletes (biological age, training age, biological sex)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** F. Apply Knowledge of Neuroendocrine Physiology - 1. Functions of hormones (e.g., testosterone, growth hormone)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** F. Apply Knowledge of Neuroendocrine Physiology - 2. Neuroendocrine responses to exercise and training
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** F. Apply Knowledge of Neuroendocrine Physiology - 3. Individual differences among various types of athletes (biological age, training age, biological sex)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** G. Apply Knowledge of Cardiopulmonary Anatomy and Physiology - 1. Cardiopulmonary anatomy (e.g., structure of the heart, vascular system, lungs)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** G. Apply Knowledge of Cardiopulmonary Anatomy and Physiology - 2. Cardiopulmonary responses to exercise and training
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** G. Apply Knowledge of Cardiopulmonary Anatomy and Physiology - 3. Individual differences among various types of athletes (biological age, training age, biological sex)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** H. Apply Knowledge of Physiological Adaptations - 1. Impact of resistance training on physiological systems (e.g., nervous system, skeletal muscle, energy systems)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** H. Apply Knowledge of Physiological Adaptations - 2. Impact of conditioning on physiological systems (e.g., energy systems, skeletal muscle, nervous system)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** I. Apply Knowledge of Integrated/Network Physiology - 1. Interplay among the physiological systems
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** I. Apply Knowledge of Integrated/Network Physiology - 2. Performance planning and performance management (training, sport science, recovery, sleep, travel, mental performance, nutrition)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** I. Apply Knowledge of Integrated/Network Physiology - 3. Impact of fatigue (e.g., neuromuscular, metabolic) on performance
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** I. Apply Knowledge of Integrated/Network Physiology - 4. Techniques and strategies for restoration
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** J. Apply Knowledge of Scientific Research and Statistics in the Exercise Sciences - 1. Scientific research process (e.g., research design and basic statistics)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** J. Apply Knowledge of Scientific Research and Statistics in the Exercise Sciences - 2. PICOT approach (Population, intervention, comparison, outcome, time) to asking answerable questions
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** J. Apply Knowledge of Scientific Research and Statistics in the Exercise Sciences - 3. Research evaluation criteria (e.g., reliability and validity of testing techniques and research design)
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+**Task:** J. Apply Knowledge of Scientific Research and Statistics in the Exercise Sciences - 4. Practical applications of research
+
+**Associated Key Terms:**
+- *not found in the last 3 pages of this chapter.*
+- a-band
+- acceleration
+- acetylcholine
+- actin
+- action potential
+- active rest
+- adenosine diphosphate (adp)
+- adenosine monophosphate (amp)
+- adenosine triphosphatase (atpase)
+- adenosine triphosphate (atp)
+- adenylate kinase reaction
+- adolescence
+- adulthood
+- aerobic
+- aerobic glycolysis
+- agonist
+- all-or-none principle
+- allosteric activation
+- allosteric binding site
+- allosteric inhibition
+- alveolar pressure
+- alveoli
+- amenorrhea
+- anabolic hormone
+- anabolism
+- anaerobic
+- anaerobic alactic system
+- anaerobic glycolysis
+- anaerobic lactic system
+- anaerobic training
+- anatomical dead space
+- anatomical position
+- angle of pennation
+- angular displacement
+- angular velocity
+- annual training plan
+- antagonist
+- anterior cruciate ligament (acl)
+- aortic valve
+- apophyseal
+- appendicular skeleton
+- arterial system
+- arteriole
+- arteriovenous oxygen difference
+- artery
+- atrioventricular (a v) bundle
+- atrioventricular (a v) node
+- atrioventricular (a v) valves
+- atrium
+- axial skeleton
+- basic strength phase
+- beta oxidation
+- biaxial joints
+- bilateral deficit
+- bilateral facilitation
+- bioenergetics
+- biological age
+- biomechanics
+- blood doping
+- bone matrix
+- bone mineral density (bmd)
+- bone periosteum
+- bracketing technique
+- bradycardia
+- branched-chain amino acid
+- bronchi
+- bronchiole
+- calcium atpase
+- capillary
+- cardiac output
+- cartilaginous joint
+- cartilaginous joints
+- catabolic hormone
+- catabolism
+- childhood
+- chronological age
+- classic formula
+- cocontraction
+- collagen
+- combination training
+- competitive period
+- concentric muscle action
+- concurrent validity
+- construct validity
+- content validity
+- convergent validity
+- cori cycle
+- cortical bone
+- creatine kinase
+- creatine phosphate (cp)
+- criterion-referenced validity
+- cross-education
+- cross-linking
+- cross-reactivity
+- crossbridge
+- cytochrome
+- daily undulating periodization
+- depletion
+- depolarization
+- detraining
+- development
+- diaphysis
+- diastole
+- diastolic blood pressure
+- diffusion
+- discriminant validity
+- distal
+- diurnal variation
+- dorsal
+- double product
+- downregulation
+- eccentric muscle action
+- ectomorphic
+- ejection fraction
+- elastin
+- electrocardiogram (ecg)
+- electromyography (emg)
+- electron transport chain (etc)
+- end-diastolic volume
+- endergonic reaction
+- endocrine gland
+- endomorphic
+- endomysium
+- energy
+- energy substrate
+- epimysium
+- erythropoietin (epo)
+- evaluation
+- excess postexercise oxygen consumption (epoc)
+- exergonic reaction
+- extrafusal fibers
+- face validity
+- fasciculi
+- fast glycolysis
+- fast-twitch fiber
+- female athlete triad
+- fibrous attachments
+- fibrous cartilage
+- fibrous joints
+- fick equation
+- field test
+- first transition period
+- first-class lever
+- fitnesscfatigue paradigm
+- flavin adenine dinucleotide (fadh2)
+- fleshy attachments
+- fluid resistance
+- form drag
+- formative evaluation
+- frank-starling mechanism
+- friction
+- frontal plane
+- fulcrum
+- functional overreaching
+- functional overreaching (for)
+- general adaptation syndrome
+- general adaptation syndrome (gas)
+- general preparatory phase
+- gluconeogenesis
+- glycogenolysis
+- glycolysis
+- glycolytic
+- golgi tendon organ (gto)
+- growth
+- growth cartilage
+- h-zone
+- heart rate
+- hemoglobin
+- high-intensity interval training (hiit)
+- hormone
+- hormonecreceptor complex (h-rc)
+- hyaline cartilage
+- hydrolysis
+- hydroxyapatite
+- hyperoxic breathing
+- hyperplasia
+- hypertrophy
+- hypertrophy/strength endurance phase
+- hyperventilation
+- i-band
+- inertial force
+- inferior
+- inorganic phosphate
+- insertion
+- interrater agreement
+- interrater reliability
+- interval training
+- intrafusal fibers
+- intrarater variability
+- intrasubject variability
+- isometric muscle action
+- krebs cycle
+- kyphotic
+- lactate
+- lactate threshold (lt)
+- lactic acid
+- law of mass action
+- left bundle branch
+- lever
+- linear periodization
+- lock-and-key theory
+- lordotic
+- macrocycle
+- maintenance
+- mass action effect
+- maturation
+- maximal heart rate
+- maximal oxygen uptake
+- mean arterial pressure
+- measurement
+- mechanical advantage
+- mechanical loading
+- menarche
+- mesocycle
+- mesomorphic
+- metabolic acidosis
+- metabolic equivalent (met)
+- metabolic specificity
+- metabolism
+- microcycle
+- microfibril
+- midtest
+- minimal essential strain (mes)
+- minute ventilation
+- mitochondria
+- mitral valve
+- moment arm
+- motor neuron
+- motor unit
+- multiaxial joints
+- muscle fiber
+- muscle force
+- muscle spindle
+- myocardium
+- myofibril
+- myofilament
+- myogenesis
+- myoglobin
+- myokinase reaction
+- myosin
+- myosin atpase
+- myotatic reflex
+- near-equilibrium reactions
+- nebulin
+- neuroendocrine immunology
+- neuroendocrinology
+- neuromuscular junction
+- neuromuscular junction (nmj)
+- nicotinamide adenine dinucleotide (nadh)
+- nonfunctional overreaching
+- nonfunctional overreaching (nfor)
+- nonlinear periodization
+- objectivity
+- older
+- onset of blood lactate accumulation (obla)
+- origin
+- osteoblasts
+- osteogenic stimuli
+- osteopenia
+- osteoporosis
+- overreaching
+- overtraining
+- overtraining syndrome (ots)
+- oxidative phosphorylation
+- oxidative system
+- oxygen debt
+- oxygen deficit
+- oxygen uptake
+- p-wave
+- parasympathetic nervous system
+- parasympathetic overtraining syndrome
+- peak bone mass
+- peak height velocity (phv)
+- peaking
+- pennate muscle
+- pennation angle
+- perimysium
+- periodization
+- periosteum
+- phosphagen system
+- phosphocreatine (pcr)
+- phosphofructokinase (pfk)
+- phosphorylation
+- physiological dead space
+- pleura
+- pleural pressure
+- polypeptide hormone
+- posttest
+- power
+- power stroke
+- preactivation
+- predictive validity
+- preparatory period
+- pretest
+- procollagen
+- progressive overload
+- proprioceptor
+- proteolytic enzyme
+- proximal
+- puberty
+- pulmonary valve
+- purkinje fibers
+- pyruvate
+- qrs complex
+- rate coding
+- rate-limiting step
+- ratecpressure product
+- reactive hyperemia
+- recovery
+- recruitment
+- red blood cell
+- reliability
+- repletion
+- repolarization
+- resistance exercise
+- resistive force
+- restoration
+- right bundle branch
+- rotational power
+- rotational work
+- sagittal plane
+- sarcolemma
+- sarcomere
+- sarcopenia
+- sarcoplasm
+- sarcoplasmic reticulum
+- second transition period
+- second-class lever
+- secondary messenger
+- selective recruitment
+- semilunar valves
+- senior
+- sinoatrial (sa) node
+- size principle
+- sliding-filament theory
+- slow glycolysis
+- slow-twitch fiber
+- sodium-potassium atpase
+- specific preparatory phase
+- specificity of loading
+- steroid hormone
+- stimulus-fatigue-recovery-adaptation theory
+- strength
+- strength/power phase
+- stress fractures
+- stroke volume
+- structural exercises
+- substrate-level phosphorylation
+- supercompensation
+- superior
+- surface drag
+- sympathetic nervous system
+- sympathetic overtraining syndrome
+- synergist
+- synovial fluid
+- synovial joints
+- systole
+- systolic blood pressure
+- t-tubule
+- t-wave
+- tachycardia
+- tapering
+- target tissue cell
+- tendon
+- tendon stiffness
+- tendons
+- test
+- test battery
+- testcretest reliability
+- tetanus
+- third-class lever
+- thyroid hormone.
+- tidal volume
+- titin
+- torque
+- trabecular bone
+- trachea
+- traditional periodization.
+- training age
+- transverse plane
+- tricuspid valve
+- tropomyosin
+- troponin
+- twitch
+- type i fiber
+- type iia fiber
+- type iix fiber
+- typical error of measurement
+- uniaxial joints
+- validity.
+- valsalva maneuver
+- vasoconstriction
+- vasodilation
+- vein
+- venous return
+- venous system
+- ventilatory equivalent.
+- ventral
+- ventricle
+- venule
+- vertebral column
+- weight
+- wet muscle
+- work-to-rest ratio.
+- work.
+- young athlete.
+- youth
+- z-line.
+
+---
+
+### 2. SPORT PSYCHOLOGY
+
+**Task:** A. Apply Knowledge of the Psycho-physiological factors of performance - 1. Motivational theories (e.g., Self-determination, goal-orientation, achievement motivation)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** A. Apply Knowledge of the Psycho-physiological factors of performance - 2. Mental skills (e.g., arousal/emotional regulation, attentional control, visualization/imagery, reinforcement strategies, confidence building, and self-talk)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** A. Apply Knowledge of the Psycho-physiological factors of performance - 3. The alignment of psychological and physiological factors
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** A. Apply Knowledge of the Psycho-physiological factors of performance - 4. Interpersonal relationships (e.g., coach-athlete relationship, team dynamics/cohesion, leadership)
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** B. Apply Knowledge of Athlete Mental Health and Wellness - 1. The psychological impact of setbacks (e.g., injury, athlete identity/ transitions, re-evaluation) and know when to refer
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** B. Apply Knowledge of Athlete Mental Health and Wellness - 2. The signs and symptoms of common mental health concerns (e.g., anxiety, stress, depression) and know when to refer
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+**Task:** B. Apply Knowledge of Athlete Mental Health and Wellness - 3. The signs and symptoms associated with eating disorders and disordered eating and know when to refer
+
+**Associated Key Terms:**
+- achievement motivation
+- anorexia nervosa
+- anxiety
+- arousal
+- athletic trainer
+- attention
+- augmented feedback
+- autogenic training
+- binge-eating disorder
+- body mass index (bmi)
+- bulimia nervosa
+- carbohydrate loading
+- catastrophe theory
+- closed kinetic chain
+- cognitive anxiety
+- contraindication
+- contusion
+- counselor
+- counterconditioning
+- daily adjustable progressive resistive exercise (dapre)
+- diaphragmatic breathing
+- diet-induced thermogenesis
+- discovery
+- dislocation
+- disordered eating
+- distress
+- drive theory
+- eating disorders
+- edema
+- emotions
+- enhancement
+- eustress
+- exercise physiologist
+- explicit instructions
+- extrinsic motivation
+- fibroblastic repair
+- fractionalization
+- goal setting
+- guided discovery
+- ideal performance state
+- imagery
+- indication
+- individual zones of optimal functioning
+- inflammation
+- inflammatory response
+- intrinsic feedback
+- intrinsic motivation
+- inverted-u theory
+- isocaloric
+- knowledge of performance
+- knowledge of results
+- long-term goals
+- macrotrauma
+- maturation-remodeling
+- mental imagery
+- microtrauma
+- motivation
+- motive to achieve success (mas)
+- motive to avoid failure (maf)
+- negative punishment
+- negative reinforcement
+- neuromuscular control
+- nutritionist
+- obesity
+- observational practice
+- open kinetic chain
+- operant
+- outcome goals
+- part practice
+- physical agent
+- physical therapist
+- physiological efficiency
+- physiotherapist
+- positive punishment
+- positive reinforcement
+- precompetition meal
+- process goals
+- progressive muscle relaxation (pmr)
+- progressive-part training
+- proprioception
+- psychiatrist
+- psychological efficiency
+- psychologist
+- pure-part training
+- random practice
+- remodeling
+- repair
+- repetitive part training
+- reversal theory
+- routine
+- segmentation
+- selective attention
+- self-confidence
+- self-controlled practice
+- self-efficacy
+- self-talk
+- short-term goals
+- simplification
+- somatic anxiety
+- sport psychology
+- sprain
+- state anxiety
+- strain
+- strength and conditioning professional
+- stress
+- stressor
+- subluxation
+- systematic desensitization (sd)
+- team physician
+- tendinitis.
+- trait anxiety
+- variable practice
+- voluntary dehydration.
+- whole practice.
+
+---
+
+### 3. NUTRITION
+
+**Task:** A. Apply Basic Knowledge of Nutritional Factors Affecting Health and Performance - 1. Nutrition related topics that are within scope of practice and when referral is needed
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** A. Apply Basic Knowledge of Nutritional Factors Affecting Health and Performance - 2. Basic nutritional factors that affect muscular endurance, hypertrophy, strength, power, and aerobic endurance (e.g., hydration/fluid intake, energy balance, macronutrient timing and quality, supplementation)
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** A. Apply Basic Knowledge of Nutritional Factors Affecting Health and Performance - 3. Impact of alcohol and drugs
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** A. Apply Basic Knowledge of Nutritional Factors Affecting Health and Performance - 4. Differences between evidenced-based and unsupported approaches for altering body composition (e.g., Plate approach vs fad diets)
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** B. Apply Basic Knowledge of Supplement Efficacy and Safety - 1. Lack of regulation of dietary supplements and third-party testing
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+
+**Task:** B. Apply Basic Knowledge of Supplement Efficacy and Safety - 2. Benefits and risks of dietary supplement, ergogenic aids, and performance-enhancing drugs
+
+**Associated Key Terms:**
+- acceptable macronutrient distribution range (amdr)
+- acromegaly
+- adequate intake (ai)
+- amino acids
+- anabolic steroid
+- anemia
+- anorexia nervosa
+- b-agonists
+- binge-eating disorder
+- bioavailability
+- body mass index (bmi)
+- branched-chain amino acids
+- bulimia nervosa
+- carbohydrate
+- carbohydrate loading
+- cholesterol
+- dehydration
+- diet-induced thermogenesis
+- dietary reference intakes (dris)
+- dietary supplement
+- disaccharides
+- disordered eating
+- docosahexaenoic acid (dha)
+- eating disorders
+- eicosapentaenoic acid (epa)
+- electrolytes
+- ergogenic aid
+- ergolytic
+- erythropoietin (epo)
+- essential amino acids
+- estimated average requirement (ear)
+- fat
+- fatty acids
+- fiber
+- fructose
+- galactose
+- gluconeogenesis
+- glucose
+- glycemic index (gi)
+- glycemic load
+- glycogen
+- glycogenesis
+- high-density lipoprotein (hdl)
+- human growth hormone (hgh)
+- hydration
+- hypohydration
+- hyponatremia
+- isocaloric
+- lactose
+- lipolysis
+- low-density lipoprotein (ldl)
+- macronutrient
+- maltose
+- micronutrient
+- minerals
+- monosaccharides
+- monounsaturated
+- muscle buffering capacity (mbc)
+- muscle dysmorphia
+- muscle protein synthesis
+- myplate
+- nutrient density
+- obesity
+- omega-3 fatty acid alpha-linolenic acid (ala)
+- polypeptide
+- polysaccharides
+- polyunsaturated
+- precompetition meal
+- protein
+- protein digestibility
+- protein digestibility correct amino acid score (pdcaas)
+- random drug tests
+- recommended dietary allowances (rda)
+- saturated
+- sports dietitian
+- stacking
+- sucrose
+- testosterone
+- thermogenesis
+- tolerable upper intake level (ul)
+- triglycerides
+- vasodilation.
+- very low-density lipoproteins (vldl)
+- vitamins.
+- voluntary dehydration.
+
+---
+

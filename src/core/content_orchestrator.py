@@ -9,172 +9,135 @@ class ContentOrchestrator:
             base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
         self.processed_chapters_path = os.path.join(base_path, 'processed_chapters')
-        self.match_analysis_path = os.path.join(base_path, '..', 'data', 'metadata', 'Match analysis.md')
-        
-        self.metadata = metadata_parser.MetadataManager(base_path)
-        self.detailed_outline = self.metadata.exam_outline
-        
-        self.domain_to_chapters = self._parse_match_analysis()
+        # MetadataManager expects the project root, but base_path here is 'src'
+        root_path = os.path.dirname(base_path)
+        self.metadata = metadata_parser.MetadataManager(root_path)
         self.chapter_data = self._load_processed_data()
-        self.exam_stats = self._get_exam_stats()
+        
+        # Create a mapping from "Chapter X" or "Chapter X: Title" to filename "Chapter_X_..."
+        self.chapter_file_map = self._create_chapter_file_map()
 
-    def get_exam_stats(self):
-        """Returns the exam statistics including cognitive level distribution and total questions."""
-        return self.exam_stats
+    def get_exam_weighting(self):
+        """Returns the parsed exam weighting statistics."""
+        return self.metadata.exam_weighting
 
-    def _get_exam_stats(self):
-        """Returns hardcoded exam statistics based on CSCS Exam Content.txt and ExamContentOutline.pdf."""
-        # This remains hardcoded as parsing the text file is complex and the data is static.
-        return {
-            "SCIENTIFIC FOUNDATIONS": {
-                "total_questions": 80,
-                "domains": {
-                    "1. EXERCISE SCIENCES": {"percent": 55, "questions": 44, "recall": 15, "application": 26, "analysis": 7},
-                    "2. SPORT PSYCHOLOGY": {"percent": 24, "questions": 19, "recall": 6, "application": 12, "analysis": 2},
-                    "3. NUTRITION": {"percent": 21, "questions": 17, "recall": 3, "application": 6, "analysis": 3}
-                }
-            },
-            "PRACTICAL/APPLIED": { # Note the key change to match the parsed outline
-                "total_questions": 110,
-                "domains": {
-                    "1. PROGRAM DESIGN": {"percent": 35, "questions": 38, "recall": 2, "application": 21, "analysis": 21},
-                    "2. EXERCISE TECHNIQUE": {"percent": 36, "questions": 40, "recall": 5, "application": 15, "analysis": 8},
-                    "3. PROGRAM IMPLEMENTATION": {"percent": 18, "questions": 20, "recall": 3, "application": 12, "analysis": 7},
-                    "4. ORGANIZATION AND ADMINISTRATION": {"percent": 11, "questions": 12, "recall": 11, "application": 5, "analysis": 0}
-                }
-            }
-        }
-
-    def _parse_match_analysis(self):
-        """Parses the Match analysis.md file to map domains to chapters."""
-        domain_to_chapters = {}
-        current_domain = ""
-        try:
-            with open(self.match_analysis_path, 'r', encoding='utf-8') as f:
-                for line in f:
-                    domain_match = re.match(r'###\s*(\d+\.\s*.*)', line)
-                    if domain_match:
-                        # Use the parsed domain name directly for mapping
-                        current_domain = domain_match.group(1).strip()
-                        domain_to_chapters[current_domain] = []
-
-                    chapter_match = re.search(r'\*\*\s*(Chapter\s*\d+):', line)
-                    if chapter_match and current_domain:
-                        chapter_name = chapter_match.group(1).replace(':', '').strip()
-                        normalized_name = self._normalize_chapter_name(chapter_name)
-                        if normalized_name not in domain_to_chapters[current_domain]:
-                            domain_to_chapters[current_domain].append(normalized_name)
-        except FileNotFoundError:
-            print(f"Warning: {self.match_analysis_path} not found. Domain mapping will be empty.")
-        return domain_to_chapters
-
-    def _normalize_chapter_name(self, chapter_name):
-        """Normalizes chapter names (e.g., "Chapter 1") to match the JSON filenames (e.g., "Chapter_1_...")."""
-        try:
-            num = chapter_name.split()[-1]
-            prefix = f"Chapter_{num}_"
-            # This relies on the processed_chapters_path being accessible.
-            # A better approach might be to list files during init if this fails.
-            if not os.path.exists(self.processed_chapters_path):
-                return chapter_name # Fallback if directory not found yet
-
-            for fname in os.listdir(self.processed_chapters_path):
-                if fname.startswith(prefix):
-                    return os.path.splitext(fname)[0]
-        except (IndexError, FileNotFoundError):
-             return chapter_name # Fallback
-        return chapter_name # Fallback
+    def get_outline(self):
+        """Returns the full exam content outline."""
+        return self.metadata.exam_outline
 
     def _load_processed_data(self):
         """Loads all processed JSON data from the 'processed_chapters' directory."""
         processed_data = {}
+        if not os.path.exists(self.processed_chapters_path):
+            print(f"Warning: Directory '{self.processed_chapters_path}' not found.")
+            return processed_data
+            
         try:
             for filename in os.listdir(self.processed_chapters_path):
                 if filename.endswith('.json'):
-                    chapter_name = os.path.splitext(filename)[0]
+                    # Store full content loaded
                     file_path = os.path.join(self.processed_chapters_path, filename)
                     with open(file_path, 'r', encoding='utf-8') as f:
-                        processed_data[chapter_name] = json.load(f)
-        except FileNotFoundError:
-            print(f"Warning: Directory '{self.processed_chapters_path}' not found. No chapter data loaded.")
+                        processed_data[filename] = json.load(f) # Key is filename for now
+        except Exception as e:
+            print(f"Error loading processed data: {e}")
         return processed_data
 
-    def get_chapters_for_domain(self, domain_key):
-        """Finds the corresponding chapters for a given domain key from the parsed outline."""
-        # The domain_key from the GUI might have extra info, so we find the base key.
-        for domain in self.domain_to_chapters.keys():
-            if domain_key.startswith(domain):
-                return self.domain_to_chapters[domain]
-        return []
-
-    def get_content_for_domain(self, domain_key):
-        """Retrieves and concatenates content for all chapters in a given domain."""
-        chapters = self.get_chapters_for_domain(domain_key)
-        content = ""
-        for chapter_name in chapters:
-            chapter_content = self.chapter_data.get(chapter_name)
-            if chapter_content:
-                content += f"--- Content from {chapter_name.replace('_', ' ')} ---\n\n"
-                for section in chapter_content:
-                    content += f"Heading: {section.get('heading', 'N/A')}\n"
-                    content += f"{section.get('content', '')}\n\n"
-        return content if content else "No content found for this domain."
-
-    def get_refined_content(self, topic_path):
+    def _create_chapter_file_map(self):
         """
-        Retrieves refined content by searching for key terms from the study guide
-        within the relevant chapters for the selected domain.
+        Maps variations of chapter names to their specific JSON filename.
+        e.g. "Chapter 1" -> "Chapter_1_Structure_....json"
+        e.g. "Chapter 1: Structure..." -> "Chapter_1_Structure_....json"
         """
-        # topic_path is like: ['SCIENTIFIC FOUNDATIONS', '1. EXERCISE SCIENCES', 'A. ...', '1. ...']
-        if len(topic_path) < 2:
-            return "Please select a more specific topic."
+        mapping = {}
+        if not self.chapter_data:
+            return mapping
 
-        section_key = topic_path[0]
-        domain_key = topic_path[1]
+        for filename in self.chapter_data.keys():
+            # filename example: Chapter_1_Structure_and_Function_of_Body_Systems.json
+            # We extract the "Chapter_1" part to map "Chapter 1"
+            match = re.match(r'(Chapter)_(\d+)_', filename)
+            if match:
+                # Map "Chapter 1"
+                short_key = f"{match.group(1)} {match.group(2)}" # "Chapter 1"
+                mapping[short_key] = filename
+                
+                # Map full title if possible (replacing underscores with spaces)
+                full_title_key = filename.replace('.json', '').replace('_', ' ')
+                mapping[full_title_key] = filename
+        return mapping
+
+    def _resolve_filenames(self, chapter_identifiers):
+        """
+        Takes a list of chapter identifiers (e.g. ["Chapter 1", "Chapter 7: ..."])
+        and returns the list of corresponding JSON filenames.
+        """
+        filenames = set()
+        for ident in chapter_identifiers:
+            # 1. Try exact match
+            if ident in self.chapter_file_map:
+                filenames.add(self.chapter_file_map[ident])
+                continue
+            
+            # 2. Try matching "Chapter X" prefix
+            short_match = re.match(r'(Chapter\s+\d+)', ident)
+            if short_match:
+                short_key = short_match.group(1)
+                if short_key in self.chapter_file_map:
+                    filenames.add(self.chapter_file_map[short_key])
+        return list(filenames)
+
+    def get_context_for_node(self, node_id):
+        """
+        Retrieves all necessary context for a specific Outline Node ID.
         
-        chapters = self.get_chapters_for_domain(domain_key)
-        if not chapters:
-            return self.get_content_for_domain(domain_key) # Fallback
-
-        # Get key terms from all relevant chapters
-        all_keywords = set()
-        for chapter_name in chapters:
-            # Convert 'Chapter_1_...' to 'Chapter 1' to match study guide keys
-            simple_chapter_name = " ".join(chapter_name.split('_')[:2])
-            chapter_study_data = self.metadata.study_guide_data.get(simple_chapter_name)
-            if chapter_study_data:
-                all_keywords.update(term.lower() for term in chapter_study_data.get('key_terms', []))
-
-        # Add keywords from the topic itself
-        leaf_topic = topic_path[-1]
-        topic_keywords = re.findall(r'\b\w+\b', leaf_topic.lower())
-        stopwords = set(['and', 'the', 'of', 'in', 'a', 'to', 'e.g', 'is', 'are', 'for', 'from', 'or'])
-        topic_keywords = [word for word in topic_keywords if word.isalpha() and word not in stopwords]
-        all_keywords.update(topic_keywords)
-
-        refined_content = ""
-        for chapter_name in chapters:
-            chapter_content = self.chapter_data.get(chapter_name)
-            if chapter_content:
-                for section in chapter_content:
-                    section_text = f"Heading: {section.get('heading', 'N/A')}\n{section.get('content', '')}"
-                    # If any keyword is in the section, add the whole section
-                    if any(keyword in section_text.lower() for keyword in all_keywords):
-                        refined_content += f"--- Relevant snippet from {chapter_name.replace('_', ' ')} ---\n"
-                        refined_content += section_text + "\n\n"
+        Returns:
+            dict: {
+                "chapters": [list of filenames],
+                "text_content": "combined text content...",
+                "key_terms": [list of key terms],
+                "example_questions": [list of example questions]
+            }
+        """
+        # 1. Get Chapter Identifiers from Metadata
+        chapter_ids = self.metadata.get_chapters_for_node(node_id)
         
-        if not refined_content:
-            return self.get_content_for_domain(domain_key) # Fallback if no keywords match
+        # 2. Resolve to Filenames
+        filenames = self._resolve_filenames(chapter_ids)
+        
+        context = {
+            "chapters": filenames,
+            "text_content": "",
+            "key_terms": [],
+            "example_questions": []
+        }
+        
+        # 3. Aggregate Data
+        for fname in filenames:
+            # Content
+            chapter_json = self.chapter_data.get(fname)
+            if chapter_json:
+                # Extract chapter number for display/header
+                chap_title = fname.replace('_', ' ').replace('.json', '')
+                context["text_content"] += f"\n\n--- CONTENT FROM: {chap_title} ---"
+                for section in chapter_json:
+                    heading = section.get('heading', 'Section')
+                    body = section.get('content', '')
+                    context["text_content"] += f"### {heading}\n{body}\n"
 
-        return refined_content
+            # Key Terms & Questions
+            # We need the "Chapter X" key to lookup in metadata
+            match = re.match(r'(Chapter)_(\d+)_', fname)
+            if match:
+                short_key = f"{match.group(1)} {match.group(2)}" # "Chapter 1"
+                
+                terms = self.metadata.get_key_terms_for_chapter(short_key)
+                context["key_terms"].extend(terms)
+                
+                questions = self.metadata.get_study_questions_for_chapter(short_key)
+                context["example_questions"].extend(questions)
 
-    def get_example_questions_for_domain(self, domain_key):
-        """Gets example questions from the study guide for the relevant chapters."""
-        chapters = self.get_chapters_for_domain(domain_key)
-        questions = []
-        for chapter_name in chapters:
-            simple_chapter_name = " ".join(chapter_name.split('_')[:2])
-            chapter_study_data = self.metadata.study_guide_data.get(simple_chapter_name)
-            if chapter_study_data:
-                questions.extend(chapter_study_data.get('study_questions', []))
-        return questions
+        # Deduplicate terms
+        context["key_terms"] = sorted(list(set(context["key_terms"])))
+        
+        return context
