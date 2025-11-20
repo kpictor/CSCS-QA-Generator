@@ -90,3 +90,16 @@ def generate_qa_with_ai(provider, model_name, api_key, prompt):
     """Generates Q&A using the specified AI model."""
     return ai_models.generate_qa(provider, model_name, api_key, prompt)
 
+def translate_and_reorganize(content, provider, model_name, api_key, prompt_template):
+    """
+    Translates content using the provided prompt template.
+    """
+    # The prompt template expects {content} to be present
+    try:
+        final_prompt = prompt_template.format(content=content)
+    except KeyError:
+        # Fallback if user messed up the template, just append content
+        final_prompt = f"{prompt_template}\n\n{content}"
+        
+    return ai_models.generate_qa(provider, model_name, api_key, final_prompt)
+

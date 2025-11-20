@@ -1,5 +1,5 @@
 PyMuPDF
-openai
 google-generativeai
+openai
 dashscope
 anthropic

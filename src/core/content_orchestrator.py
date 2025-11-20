@@ -143,3 +143,70 @@ class ContentOrchestrator:
             context["key_terms"] = sorted(list(set(context["key_terms"])))
         
         return context
+
+    def get_all_chapter_titles(self):
+        """Returns a list of all available chapter titles from the study guide."""
+        chapters = []
+        for data in self.metadata.study_guide_data.values():
+            chapters.append(data['full_title'])
+        
+        # Sort by Chapter Number
+        def sort_key(title):
+            match = re.search(r'Chapter\s+(\d+)', title)
+            return int(match.group(1)) if match else 999
+            
+        return sorted(chapters, key=sort_key)
+
+    def get_context_for_chapters(self, selected_chapters):
+        """
+        Retrieves context for a list of selected chapter titles.
+        selected_chapters: list of full chapter titles (e.g. ["Chapter 1: ..."])
+        """
+        context = {
+            "chapters": [],
+            "text_content": "",
+            "key_terms": [],
+            "example_questions": []
+        }
+        
+        # Resolve Filenames
+        # selected_chapters contains full titles like "Chapter 1: Structure..."
+        # _resolve_filenames expects identifiers that match its map keys (short "Chapter 1" or full filename-derived)
+        # We need to pass something _resolve_filenames understands.
+        # Our _create_chapter_file_map maps "Chapter 1" and "Chapter_1_..." (filename based).
+        # It does NOT map the "Chapter 1: Title from Study Guide".
+        
+        # However, "Chapter 1" is a safe common denominator.
+        chapter_identifiers = []
+        for title in selected_chapters:
+            match = re.match(r'(Chapter\s+\d+)', title)
+            if match:
+                chapter_identifiers.append(match.group(1)) # "Chapter 1"
+        
+        filenames = self._resolve_filenames(chapter_identifiers)
+        context["chapters"] = filenames
+        
+        for fname in filenames:
+            # Content
+            chapter_json = self.chapter_data.get(fname)
+            if chapter_json:
+                chap_title = fname.replace('_', ' ').replace('.json', '')
+                context["text_content"] += f"\n\n--- CONTENT FROM: {chap_title} ---"
+                for section in chapter_json:
+                    heading = section.get('heading', 'Section')
+                    body = section.get('content', '')
+                    context["text_content"] += f"### {heading}\n{body}\n"
+
+            # Key Terms & Questions
+            match = re.match(r'(Chapter)_(\d+)_', fname)
+            if match:
+                short_key = f"{match.group(1)} {match.group(2)}" # "Chapter 1"
+                
+                terms = self.metadata.get_key_terms_for_chapter(short_key)
+                context["key_terms"].extend(terms)
+                
+                questions = self.metadata.get_study_questions_for_chapter(short_key)
+                context["example_questions"].extend(questions)
+
+        context["key_terms"] = sorted(list(set(context["key_terms"])))
+        return context

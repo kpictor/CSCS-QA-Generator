@@ -1,76 +1,97 @@
-# CSCS Q&A Generator
+# CSCS Q&A Generator & Translator
 
-This project is a desktop application designed to help users study for the Certified Strength and Conditioning Specialist (CSCS) exam. It uses AI models to generate questions and answers based on the content of the CSCS textbook.
+A comprehensive tool designed for **Strength and Conditioning (CSCS)** candidates and educators. This application leverages advanced AI models (Gemini, OpenAI, Claude, Qwen) to generate high-quality, exam-style practice questions and translate educational content into Simplified Chinese.
 
-## Supported AI Providers
-- Gemini
-- OpenAI
-- Qwen
-- Claude
+## 🚀 Features
 
-## Design Goals
+### 1. 📝 Smart Q&A Generation
+Generate exam-quality multiple-choice questions tailored to specific needs.
 
-The **CSCS Q&A Generator** is a desktop application designed to be an intelligent study assistant for individuals preparing for the Certified Strength and Conditioning Specialist (CSCS) exam. Its primary goal is to move beyond simple, static question banks by leveraging AI to create dynamic, targeted, and contextually relevant practice questions based on the official NSCA textbook.
+*   **Targeted Practice (Outline):** Select specific domains, subdomains, or tasks directly from the CSCS Exam Content Outline. The AI uses the official exam structure to create relevant questions.
+*   **Practice by Chapter:** Choose one or multiple chapters from the *Essentials of Strength Training and Conditioning* textbook. The tool pulls key terms and context from your selected chapters.
+*   **Cognitive Levels:** Customize the difficulty and style of questions:
+    *   **Recall:** Basic definitions and facts.
+    *   **Application:** Applying knowledge to specific scenarios (calculations, "if/then" situations).
+    *   **Analysis:** Complex decision-making and evaluating competing factors.
+*   **Batch Generation:** Automatically generates questions for batches of key terms to ensure broad coverage.
 
-The core design is centered around three distinct and powerful generation modes:
+### 2. 🌏 Content Translation
+A dedicated tool for translating CSCS study materials into **Simplified Chinese (简体中文)** while preserving professional formatting.
 
-1.  **Chapter Review Mode:** This mode allows users to select one or more chapters from the textbook. The application then identifies every official "Key Term" from those chapters and generates a unique question for each one. This ensures a comprehensive review of the fundamental vocabulary and concepts presented in the selected material.
+*   **Batch Processing:** Select multiple Markdown files at once.
+*   **Terminology Precision:** Ensures accurate translation of specific sports science terminology (e.g., "Hypertrophy" -> "肌肥大", "Work-to-rest ratio" -> "功/休比").
+*   **Auto-Formatting:** Reorganizes Q&A content into a clean, readable layout suitable for study guides.
 
-2.  **Targeted Practice Mode:** This is the most focused mode. It presents the user with the official CSCS exam content outline in a navigable tree structure. The user can select any specific topic or task from this outline (e.g., "Apply Knowledge of Bone and Connective Tissue Anatomy and Physiology"). The application then intelligently generates questions from the key terms that are most relevant to that specific outline topic, allowing for highly targeted practice on areas of weakness.
+### 3. 🤖 Multi-Model AI Support
+Choose your preferred AI provider. The application supports:
+*   **Google Gemini** (Recommended for speed and cost)
+*   **OpenAI (GPT-4/3.5)**
+*   **Anthropic Claude**
+*   **Alibaba Qwen**
 
-3.  **Exam Simulation Mode:** This mode simulates a real exam experience by generating a user-specified number of questions. Crucially, it adheres to the official exam's proportional weighting, generating the correct percentage of questions from the two major sections: "Scientific Foundations" and "Practical / Applied". This provides a realistic and balanced measure of exam readiness.
+---
 
-Underpinning these modes is a sophisticated backend that parses and maps the relationships between the textbook's content, the study guide's key terms, and the exam's content outline, ensuring that every generated question is both relevant and context-aware.
+## 🛠️ Installation
 
-## Prerequisites
+### Prerequisites
+*   **Python 3.8+** must be installed on your system.
+*   An API Key for your chosen AI provider (e.g., a Google Gemini API Key).
 
-Before running the application, you must have:
-1.  **CSCS Textbook PDFs:** You need digital copies of the CSCS textbook chapters.
-2.  **API Key:** An API key for one of the supported AI providers (Gemini, OpenAI, Qwen, or Claude).
-
-## Setup and Installation
-
-1.  **Clone the repository:**
+### Setup
+1.  **Clone the Repository** (or download the source code):
     ```bash
-    git clone https://github.com/your-username/CSCS-QA-Generator.git
+    git clone https://github.com/yourusername/CSCS-QA-Generator.git
     cd CSCS-QA-Generator
     ```
 
-2.  **Create a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3.  **Install the required dependencies:**
+2.  **Install Dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Data Setup:**
-    -   Create a folder named `pdfs` inside the `data` directory: `data/pdfs`.
-    -   Place your CSCS textbook PDF files into `data/pdfs`.
-    -   Run the data processing script to extract content from the PDFs:
-        ```bash
-        python -m src.data_processing.process_pdfs
-        ```
-    -   This will generate structured JSON files in `src/processed_chapters`, which the application uses to generate questions.
+---
 
-## Usage
+## 💻 Usage
 
-1.  **Run the application:**
-    ```bash
-    python -m src.app
-    ```
+### Running the Application
+Double-click the **`run_app.bat`** file (Windows) or run the following command in your terminal:
 
-2.  **Configure the AI Provider:**
-    - Select your desired AI provider (e.g., Gemini, OpenAI) from the dropdown menu.
-    - Enter your API key for the selected provider.
-    - Click "Validate Key" to confirm the key is correct and to populate the available AI models.
+```bash
+python -m src.app
+```
 
-3.  **Generate Q&A:**
-    - Select your desired AI model.
-    - Choose a "Generation Mode" (Chapter Review, Targeted Practice, or Exam Simulation).
-    - Follow the on-screen prompts to select chapters, topics, or the number of questions.
-    - Click "Generate Q&A" to start the process.
-    - The generated questions and answers will appear in the output text box and will be saved to the `generated_qa` directory.
+### Configuration
+1.  **API Provider:** On the top "Global Configuration" bar, select your AI Provider (e.g., "Gemini").
+2.  **API Key:** Paste your API Key into the box and click **"Validate Key"**.
+    *   *Note:* The key is saved locally in `config.json` so you don't need to re-enter it every time.
+3.  **Model:** Once validated, select the specific model you wish to use (e.g., `gemini-1.5-flash` or `gpt-4`).
+
+### Generating Questions (Tab 1)
+1.  **Select Mode:**
+    *   *Targeted Practice (Outline):* Browse the Exam Outline tree and check (☑) the specific topics you want to study.
+    *   *Practice by Chapter:* Select one or more chapters from the list. Use "Select All" for a comprehensive exam.
+2.  **Select Cognitive Level:** Choose "Recall", "Application", or "Analysis".
+3.  **Generate:** Click **"Generate Q&A"**. The AI will process your selection and output questions in the text window.
+4.  **Save:** The results are automatically saved as Markdown files in the `generated_qa/` folder.
+
+### Translating Files (Tab 2)
+1.  **Select Files:** Click **"Browse Files..."** and select the Markdown (`.md`) files you want to translate.
+2.  **Review Prompt:** (Optional) You can edit the "Translation Prompt" to change the style or specific instructions.
+3.  **Translate:** Click **"Translate Selected Files"**.
+4.  **Output:** Translated files are saved in the same directory as the original files with a `_CN` suffix (e.g., `Topic_1_CN.md`).
+
+---
+
+## 📂 Project Structure
+
+*   `src/`: Source code.
+    *   `ui/`: GUI implementation (Tkinter).
+    *   `core/`: Core logic for prompt generation, orchestration, and translation.
+    *   `api/`: Interfaces for different AI providers.
+    *   `data_processing/`: Scripts to parse PDFs and metadata.
+*   `data/`: Contains PDF source files and metadata mappings.
+*   `generated_qa/`: Default output folder for generated questions.
+*   `requirements.txt`: Python dependencies.
+
+## 📄 License
+[MIT License](LICENSE)
