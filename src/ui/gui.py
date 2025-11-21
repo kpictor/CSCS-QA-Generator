@@ -91,6 +91,11 @@ class App(tk.Tk):
         self.notebook.add(self.anki_tab, text="Anki Flashcard Export")
         self._init_anki_tab(self.anki_tab)
 
+        # Tab 4: Combine Files
+        self.combine_tab = ttk.Frame(self.notebook)
+        self.notebook.add(self.combine_tab, text="Combine Files")
+        self._init_combine_tab(self.combine_tab)
+
         # Initialize Config
         self.on_provider_select()
 
@@ -367,6 +372,55 @@ class App(tk.Tk):
                 f"2. Go to File → Import\n"
                 f"3. Select the *_anki.txt file(s)\n"
                 f"4. Verify settings and import")
+
+    # =========================================
+    # Tab 4: Combine Files Logic
+    # =========================================
+    def _init_combine_tab(self, parent):
+        # File Selection
+        file_frame = ttk.LabelFrame(parent, text="File Selection", padding="10")
+        file_frame.pack(fill=tk.X, pady=10, padx=10)
+
+        self.combine_files_var = tk.StringVar()
+        ttk.Entry(file_frame, textvariable=self.combine_files_var, state="readonly").pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
+        ttk.Button(file_frame, text="Browse Files...", command=self.browse_combine_files).pack(side=tk.LEFT, padx=5)
+
+        # Action Button
+        self.combine_btn = ttk.Button(parent, text="Combine and Save Files", command=self.combine_files)
+        self.combine_btn.pack(fill=tk.X, pady=10, padx=10)
+
+    def browse_combine_files(self):
+        files = filedialog.askopenfilenames(
+            title="Select text files to combine",
+            filetypes=(("Text files", "*.txt"), ("All files", "*.*"))
+        )
+        if files:
+            self.combine_files_var.set(f"{len(files)} files selected")
+            self.selected_files_for_combination = files
+
+    def combine_files(self):
+        if not hasattr(self, 'selected_files_for_combination') or not self.selected_files_for_combination:
+            messagebox.showwarning("Input Error", "Please select files to combine.")
+            return
+
+        output_file = filedialog.asksaveasfilename(
+            title="Save combined file as",
+            filetypes=(("Text files", "*.txt"), ("All files", "*.*")),
+            defaultextension=".txt"
+        )
+
+        if not output_file:
+            return # User cancelled
+
+        try:
+            with open(output_file, 'w', encoding='utf-8') as outfile:
+                for file_path in self.selected_files_for_combination:
+                    with open(file_path, 'r', encoding='utf-8') as infile:
+                        outfile.write(infile.read())
+                        outfile.write("\n\n---\n\n") # Add a separator
+            messagebox.showinfo("Success", f"Successfully combined {len(self.selected_files_for_combination)} files into {os.path.basename(output_file)}")
+        except Exception as e:
+            messagebox.showerror("Error", f"An error occurred: {e}")
 
     # =========================================
     # Shared/Generation Methods
