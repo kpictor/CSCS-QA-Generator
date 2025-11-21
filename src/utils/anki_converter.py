@@ -160,12 +160,22 @@ def convert_to_anki_txt(md_file_path, output_path=None):
         if not questions:
             raise ValueError("No valid questions found in the markdown file")
         
-        # Generate tags from filename
+        # Generate tags from filename and directory
+        tags = []
+        directory = os.path.basename(os.path.dirname(md_file_path))
+        if "analysis" in directory:
+            tags.append("analysis")
+        elif "application" in directory:
+            tags.append("application")
+        elif "recall" in directory:
+            tags.append("recall")
+
         filename = os.path.basename(md_file_path)
-        # Extract useful parts from filename (e.g., Analysis_Topic_Chapter_1_20251120_CN.md)
-        # Remove _CN.md suffix and use parts as tags
-        name_parts = filename.replace('_CN.md', '').split('_')
-        tags = ' '.join([part for part in name_parts if part and not part.isdigit()])
+        chapter_match = re.search(r'(Chapter_\d+)', filename, re.IGNORECASE)
+        if chapter_match:
+            tags.append(chapter_match.group(1))
+        
+        tags = ' '.join(tags)
         
         # Determine output path
         if output_path is None:
