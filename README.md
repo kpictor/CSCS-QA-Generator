@@ -84,14 +84,30 @@ python -m src.app
 
 ## 📂 Project Structure
 
-*   `src/`: Source code.
-    *   `ui/`: GUI implementation (Tkinter).
-    *   `core/`: Core logic for prompt generation, orchestration, and translation.
-    *   `api/`: Interfaces for different AI providers.
-    *   `data_processing/`: Scripts to parse PDFs and metadata.
-*   `data/`: Contains PDF source files and metadata mappings.
-*   `generated_qa/`: Default output folder for generated questions.
-*   `requirements.txt`: Python dependencies.
+```
+CSCS-QA-Generator/
+├── src/                    # Source code
+│   ├── api/               # AI provider interfaces (Gemini, OpenAI, Claude, Qwen)
+│   ├── core/              # Core logic (QA generation, content orchestration)
+│   ├── data_processing/   # Metadata parsers and PDF processors
+│   ├── ui/                # GUI implementation (Tkinter)
+│   ├── utils/             # Configuration management utilities
+│   └── app.py             # Main application entry point
+├── data/
+│   ├── metadata/          # Exam outline and key term mappings (JSON/MD)
+│   └── pdfs/              # PDF source files (gitignored)
+├── generated_qa/          # Output folder for generated Q&A (gitignored)
+├── requirements.txt       # Python dependencies
+├── run_app.bat            # Quick launch script (Windows)
+├── README.md              # This file
+└── LICENSE                # MIT License
+```
+
+### Key Files
+- **`data/metadata/id_to_chapters_map.json`**: Maps outline IDs to textbook chapters
+- **`data/metadata/key_term_to_outline.json`**: Maps outline tasks to key terms
+- **`data/metadata/ExamContentOutline.md`**: CSCS exam structure and weighting
+- **`data/metadata/study_guide.md`**: Chapter summaries and key terms
 
 ## 📄 License
 [MIT License](LICENSE)
