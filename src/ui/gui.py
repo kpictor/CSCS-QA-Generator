@@ -195,8 +195,13 @@ class App(tk.Tk):
                 with open(file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
-                translated_content = qa_generator.translate_and_reorganize(content, provider, model, api_key, prompt_template)
+                # Define progress callback for chunk-level updates
+                def progress_callback(current, total, message):
+                    self.trans_log.insert(tk.END, f"   {message}\n")
+                    self.trans_log.see(tk.END)
+                    self.update_idletasks()
                 
+                translated_content = qa_generator.translate_and_reorganize(content, provider, model, api_key, prompt_template, progress_callback)                
                 base, ext = os.path.splitext(file_path)
                 output_path = f"{base}_CN{ext}"
                 

@@ -108,16 +108,154 @@ def generate_qa_with_ai(provider, model_name, api_key, prompt):
     """Generates Q&A using the specified AI model."""
     return ai_models.generate_qa(provider, model_name, api_key, prompt)
 
-def translate_and_reorganize(content, provider, model_name, api_key, prompt_template):
+def _split_content_into_chunks(content, max_chunk_size=25000):
+    """
+    Splits content into chunks by markdown sections to avoid breaking questions.
+    Attempts to split at section boundaries (## headers or --- separators).
+    
+    Args:
+        content: The full content to split
+        max_chunk_size: Maximum characters per chunk (default ~25k chars = ~6k tokens)
+    
+    Returns:
+        List of content chunks
+    """
+    import re
+    
+    # If content is small enough, return as-is
+    if len(content) <= max_chunk_size:
+        return [content]
+    
+    # Split by markdown headers or horizontal rules
+    # Pattern matches: lines starting with ## or lines that are ---
+    split_pattern = r'(?=^#{2,}\s+.*$|^---+$)'
+    sections = re.split(split_pattern, content, flags=re.MULTILINE)
+    
+    chunks = []
+    current_chunk = ""
+    
+    for section in sections:
+        if not section.strip():
+            continue
+            
+        # If adding this section would exceed limit, save current chunk and start new one
+        if len(current_chunk) + len(section) > max_chunk_size and current_chunk:
+            chunks.append(current_chunk)
+            current_chunk = section
+        else:
+            current_chunk += section
+    
+    # Add the last chunk
+    if current_chunk:
+        chunks.append(current_chunk)
+    
+    # If we still have chunks that are too large, split them by character count
+    final_chunks = []
+    for chunk in chunks:
+        if len(chunk) <= max_chunk_size:
+            final_chunks.append(chunk)
+        else:
+            # Force split by character count as last resort
+            for i in range(0, len(chunk), max_chunk_size):
+                final_chunks.append(chunk[i:i + max_chunk_size])
+    
+    return final_chunks
+
+
+def translate_and_reorganize(content, provider, model_name, api_key, prompt_template, progress_callback=None):
     """
     Translates content using the provided prompt template.
+    For large files, splits into chunks and processes separately.
+    
+    Args:
+        content: Content to translate
+        provider: AI provider name
+        model_name: Model to use
+        api_key: API key
+        prompt_template: Translation prompt template
+        progress_callback: Optional callback function(current, total, message) for progress updates
+    
+    Returns:
+        Translated content
     """
-    # The prompt template expects {content} to be present
-    try:
-        final_prompt = prompt_template.format(content=content)
-    except KeyError:
-        # Fallback if user messed up the template, just append content
-        final_prompt = f"{prompt_template}\n\n{content}"
+    # Determine if we need chunking (files > 20KB)
+    file_size_kb = len(content.encode('utf-8')) / 1024
+    
+    if file_size_kb < 20:
+        # Small file - translate normally
+        try:
+            final_prompt = prompt_template.format(content=content)
+        except KeyError:
+            final_prompt = f"{prompt_template}\n\n{content}"
         
-    return ai_models.generate_qa(provider, model_name, api_key, final_prompt)
+        if progress_callback:
+            progress_callback(1, 1, "Translating...")
+        
+        return ai_models.generate_qa(provider, model_name, api_key, final_prompt)
+    
+    # Large file - use chunking
+    chunks = _split_content_into_chunks(content)
+    total_chunks = len(chunks)
+    translated_chunks = []
+    
+    if progress_callback:
+        progress_callback(0, total_chunks, f"Processing large file ({file_size_kb:.1f}KB) in {total_chunks} chunks...")
+    
+    for i, chunk in enumerate(chunks, 1):
+        max_retries = 3
+        retry_count = 0
+        last_error = None
+        
+        while retry_count < max_retries:
+            try:
+                # Format prompt for this chunk
+                try:
+                    final_prompt = prompt_template.format(content=chunk)
+                except KeyError:
+                    final_prompt = f"{prompt_template}\n\n{chunk}"
+                
+                if progress_callback:
+                    retry_msg = f" (retry {retry_count}/{max_retries})" if retry_count > 0 else ""
+                    progress_callback(i, total_chunks, f"Translating chunk {i}/{total_chunks}{retry_msg}...")
+                
+                # Translate this chunk
+                translated_chunk = ai_models.generate_qa(provider, model_name, api_key, final_prompt)
+                
+                # Check for error in response
+                if translated_chunk.startswith("Error during generation"):
+                    raise Exception(translated_chunk)
+                
+                translated_chunks.append(translated_chunk)
+                
+                # Add delay between chunks to avoid rate limiting (skip delay after last chunk)
+                if i < total_chunks:
+                    import time
+                    time.sleep(2)
+                
+                break  # Success - exit retry loop
+                
+            except Exception as e:
+                last_error = e
+                retry_count += 1
+                
+                if retry_count < max_retries:
+                    # Wait before retrying (exponential backoff: 2s, 4s, 8s)
+                    import time
+                    wait_time = 2 ** retry_count
+                    if progress_callback:
+                        progress_callback(i, total_chunks, f"Chunk {i}/{total_chunks} failed, retrying in {wait_time}s...")
+                    time.sleep(wait_time)
+                else:
+                    # All retries exhausted
+                    error_msg = f"Failed on chunk {i}/{total_chunks} after {max_retries} retries: {str(last_error)}"
+                    if progress_callback:
+                        progress_callback(i, total_chunks, error_msg)
+                    raise Exception(error_msg)
+    
+    # Reassemble all chunks
+    if progress_callback:
+        progress_callback(total_chunks, total_chunks, "Reassembling translated content...")
+    
+    # Join chunks with double newline to maintain separation
+    return "\n\n".join(translated_chunks)
 
