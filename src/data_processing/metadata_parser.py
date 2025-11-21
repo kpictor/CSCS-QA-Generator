@@ -284,8 +284,8 @@ class MetadataManager:
         
         self.exam_outline_path = os.path.join(base_path, 'data', 'metadata', 'ExamContentOutline.md')
         self.study_guide_path = os.path.join(base_path, 'data', 'metadata', 'study_guide.md')
-        self.chapter_map_path = os.path.join(base_path, 'data', 'metadata', 'chapter_to_outline_map.json')
-        self.key_term_map_path = os.path.join(base_path, 'data', 'metadata', 'key_term_to_outline_map.md')
+        self.chapter_map_path = os.path.join(base_path, 'data', 'metadata', 'id_to_chapters_map.json')
+        self.key_term_map_path = os.path.join(base_path, 'data', 'metadata', 'key_term_to_outline.json')
         
         self.exam_outline = self._load_exam_outline()
         self.study_guide_data = self._load_study_guide_data()
@@ -317,10 +317,83 @@ class MetadataManager:
     
     def _load_key_term_mapping(self):
         try:
-            return parse_key_term_map(self.key_term_map_path)
+            with open(self.key_term_map_path, 'r', encoding='utf-8') as f:
+                hierarchical_data = json.load(f)
+            return self._convert_hierarchical_to_flat_mapping(hierarchical_data)
         except FileNotFoundError:
             print(f"Warning: {self.key_term_map_path} not found. Key Term mapping will be empty.")
             return {}
+
+    def _convert_hierarchical_to_flat_mapping(self, hierarchical_data):
+        """
+        Converts hierarchical JSON structure to flat ID-based mapping.
+        
+        Input: {"SCIENTIFIC FOUNDATIONS": {"1. EXERCISE SCIENCES": {"A. Apply...": {"1. Task...": [terms]}}}}
+        Output: {"I": [all_terms], "I.1": [terms], "I.1.A": [terms], "I.1.A.1": [terms]}
+        """
+        flat_mapping = {}
+        section_map = {"SCIENTIFIC FOUNDATIONS": "I", "PRACTICAL / APPLIED": "II", "PRACTICAL/APPLIED": "II"}
+        
+        for section_name, section_data in hierarchical_data.items():
+            # Get section ID (I or II)
+            section_id = section_map.get(section_name, "I")
+            if section_id not in flat_mapping:
+                flat_mapping[section_id] = []
+            
+            if not isinstance(section_data, dict):
+                continue
+                
+            for domain_name, domain_data in section_data.items():
+                # Extract domain number (e.g., "1. EXERCISE SCIENCES" -> "1")
+                domain_match = re.match(r'(\d+)\.', domain_name)
+                if not domain_match:
+                    continue
+                domain_num = domain_match.group(1)
+                domain_id = f"{section_id}.{domain_num}"
+                
+                if domain_id not in flat_mapping:
+                    flat_mapping[domain_id] = []
+                
+                if not isinstance(domain_data, dict):
+                    continue
+                    
+                for subdomain_name, subdomain_data in domain_data.items():
+                    # Extract subdomain letter (e.g., "A. Apply Knowledge..." -> "A")
+                    subdomain_match = re.match(r'([A-Z])\.', subdomain_name)
+                    if not subdomain_match:
+                        continue
+                    subdomain_letter = subdomain_match.group(1)
+                    subdomain_id = f"{section_id}.{domain_num}.{subdomain_letter}"
+                    
+                    if subdomain_id not in flat_mapping:
+                        flat_mapping[subdomain_id] = []
+                    
+                    if not isinstance(subdomain_data, dict):
+                        continue
+                        
+                    for task_name, task_terms in subdomain_data.items():
+                        # Extract task number (e.g., "1. Muscle anatomy..." -> "1")
+                        task_match = re.match(r'(\d+)\.', task_name)
+                        if not task_match or not isinstance(task_terms, list):
+                            continue
+                        task_num = task_match.group(1)
+                        task_id = f"{section_id}.{domain_num}.{subdomain_letter}.{task_num}"
+                        
+                        if task_id not in flat_mapping:
+                            flat_mapping[task_id] = []
+                        
+                        # Add terms to all levels (task, subdomain, domain, section)
+                        flat_mapping[task_id].extend(task_terms)
+                        flat_mapping[subdomain_id].extend(task_terms)
+                        flat_mapping[domain_id].extend(task_terms)
+                        flat_mapping[section_id].extend(task_terms)
+        
+        # Remove duplicates from all lists
+        for key in flat_mapping:
+            flat_mapping[key] = list(dict.fromkeys(flat_mapping[key]))  # Preserves order while removing dupes
+        
+        return flat_mapping
+
 
     def _load_exam_weighting(self):
         try:

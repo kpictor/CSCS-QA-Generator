@@ -381,14 +381,20 @@ class App(tk.Tk):
             def walk_tree(item_id):
                 text = self.domain_tree.item(item_id, "text")
                 values = self.domain_tree.item(item_id, "values")
-                if text.startswith("☑ ") and values:
+                children = self.domain_tree.get_children(item_id)
+                
+                # Only add if checked AND it's a leaf node (no children)
+                if text.startswith("☑ ") and values and not children:
+                    # This is a leaf node (task), add it
                     selected_items.append({
                         "id": values[0],
                         "text": text[2:],
                         "node_id": item_id,
                         "type": "topic"
                     })
-                for child in self.domain_tree.get_children(item_id):
+                
+                # Recursively process all children
+                for child in children:
                     walk_tree(child)
             for child in self.domain_tree.get_children(""):
                 walk_tree(child)
