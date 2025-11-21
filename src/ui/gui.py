@@ -462,7 +462,7 @@ class App(tk.Tk):
                     self.output_text.insert(tk.END, " Done.\n")
                     full_topic_content += batch_output
                 
-                self._save_generated_qa(full_topic_content, node_id)
+                self._save_generated_qa(full_topic_content, node_id, item_text, cognitive_level)
                 self.output_text.see(tk.END)
 
             self.output_text.insert(tk.END, "\nAll Tasks Complete.\n")
@@ -472,11 +472,30 @@ class App(tk.Tk):
             traceback.print_exc()
             self.output_text.insert(tk.END, f"\nCritical Error: {e}\n")
 
-    def _save_generated_qa(self, content, topic_id):
+    def _save_generated_qa(self, content, topic_id, topic_text, cognitive_level):
+        import re
         save_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', 'generated_qa')
         os.makedirs(save_dir, exist_ok=True)
         date_str = datetime.now().strftime('%Y%m%d')
-        filename = f"Topic_{topic_id}_{date_str}.md"
+        
+        # Sanitize topic text for filename
+        # Remove task numbers prefix (e.g., "1. Muscle anatomy" -> "Muscle anatomy")
+        sanitized_text = re.sub(r'^\d+\.\s*', '', topic_text)
+        # Remove special characters, keep alphanumeric and spaces
+        sanitized_text = re.sub(r'[^a-zA-Z0-9\s]', '', sanitized_text)
+        # Replace spaces with underscores
+        sanitized_text = sanitized_text.replace(' ', '_')
+        # Limit length to 30 characters for readability
+        if len(sanitized_text) > 30:
+            sanitized_text = sanitized_text[:30]
+        # Remove trailing underscores
+        sanitized_text = sanitized_text.rstrip('_')
+        # Fallback if empty
+        if not sanitized_text:
+            sanitized_text = "Topic"
+        
+        # Format: CognitiveLevel_ID_SanitizedText_Date.md
+        filename = f"{cognitive_level}_{topic_id}_{sanitized_text}_{date_str}.md"
         file_path = os.path.join(save_dir, filename)
         try:
             with open(file_path, 'w', encoding='utf-8') as f: f.write(content)

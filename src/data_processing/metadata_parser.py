@@ -403,12 +403,39 @@ class MetadataManager:
             return {}
 
     def get_chapters_for_node(self, node_id):
-        # If it's a Task ID (I.1.A.1), convert to Subdomain ID (I.1.A) for chapter lookup
+        """
+        Retrieves chapters for a node ID with hierarchical fallback.
+        Order of precedence:
+        1. Exact Node ID (e.g., I.1.A.1)
+        2. Subdomain ID (e.g., I.1.A)
+        3. Domain ID (e.g., I.1)
+        4. Section ID (e.g., I)
+        """
+        # 1. Exact Match
+        if node_id in self.chapter_mapping:
+            return self.chapter_mapping[node_id]
+            
         parts = node_id.split('.')
-        if len(parts) == 4:
-            subdomain_id = f"{parts[0]}.{parts[1]}.{parts[2]}"
-            return self.chapter_mapping.get(subdomain_id, [])
-        return self.chapter_mapping.get(node_id, [])
+        
+        # 2. Task Level (I.1.A.1) -> Fallback to Subdomain (I.1.A)
+        if len(parts) >= 4:
+            subdomain_id = ".".join(parts[:3])
+            if subdomain_id in self.chapter_mapping:
+                return self.chapter_mapping[subdomain_id]
+        
+        # 3. Subdomain Level (I.1.A) -> Fallback to Domain (I.1)
+        if len(parts) >= 3:
+            domain_id = ".".join(parts[:2])
+            if domain_id in self.chapter_mapping:
+                return self.chapter_mapping[domain_id]
+                
+        # 4. Domain Level (I.1) -> Fallback to Section (I)
+        if len(parts) >= 2:
+            section_id = parts[0]
+            if section_id in self.chapter_mapping:
+                return self.chapter_mapping[section_id]
+                
+        return []
 
     def get_key_terms_for_chapter(self, chapter_name):
         short_name = chapter_name.split(':')[0].strip()

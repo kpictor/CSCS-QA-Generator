@@ -44,7 +44,7 @@ def generate_batch_prompt(key_terms, content, example_questions=None, cognitive_
     terms_list = "\n".join([f"- {term}" for term in key_terms])
 
     prompt = f"""
-You are a Lead CSCS Exam Writer. Your goal is to create "Gold Standard" exam questions that test true competency, not just memorization.
+You are a Lead CSCS Exam Writer for the NSCA. Your goal is to create "Gold Standard" exam questions that test true competency, not just memorization.
 
 **Your Task:**
 Generate exactly {len(key_terms)} multiple-choice questions.
@@ -56,14 +56,21 @@ ONE question for EACH of the following Key Terms:
 {instruction}
 
 **Source Material:**
-Use the provided text content. If the text is insufficient, apply standard NSCA/CSCS principles.
+Use the provided text content below. If the text is insufficient, apply standard NSCA/CSCS principles and established exercise science research.
 
 **Chain of Thought (Perform this internally for each question):**
-1. **Define:** Briefly recall the definition of the Key Term.
-2. **Contextualize:** How does this term apply to the {scenario_context.splitlines()[1]}?
-3. **Complicate:** What is a common misconception or a conflicting factor for this athlete?
-4. **Draft:** Create the question and the correct answer.
-5. **Distract:** Create 2 wrong answers that *look* correct to an untrained person (plausible distractors).
+1. **Define:** Briefly recall the definition of the Key Term and its physiological/biomechanical basis.
+2. **Contextualize:** How does this term apply to the {scenario_context.splitlines()[1] if scenario_context else 'athlete scenario'}?
+3. **Complicate:** What is a common misconception, conflicting factor, or nuanced application for this scenario?
+4. **Draft:** Create the question stem and the correct answer.
+5. **Distract:** Create 2 plausible but incorrect distractors.
+
+**Distractor Quality Guidelines (CRITICAL):**
+Your distractors must be plausible to someone with partial knowledge. Good distractors:
+- Mix up similar concepts (e.g., "Type I fibers" vs "Type IIx fibers" in a power question)
+- Use partially correct logic (e.g., correct principle applied to wrong population)
+- Reflect common student misconceptions from CSCS prep
+- Are quantitatively similar but qualitatively wrong (e.g., "85% 1RM" vs "70% 1RM" for different goals)
 
 **Output Format (Strictly follow this for parsing):**
 **Key Term: [Term Name]**
@@ -71,9 +78,20 @@ Question: [Your high-quality question text]
 A. [Option A]
 B. [Option B]
 C. [Option C]
-Correct Answer: [Option Letter]
-Explanation: [Provide a detailed explanation. 1. Why the correct answer is right (referencing the text/principles). 2. Why the distractors are wrong/less optimal for this specific athlete.]
-(Separator) ---
+Correct Answer: [A, B, or C - LETTER ONLY]
+Explanation: [Provide a comprehensive explanation:
+1. WHY the correct answer is optimal (cite NSCA principle, textbook concept, or research basis)
+2. WHY each distractor is incorrect or suboptimal for THIS specific athlete/scenario
+3. Include quantitative reasoning where applicable (e.g., "because power requires 30-60% 1RM, not 85%")]
+---
+
+**Quality Self-Check (Complete before finalizing each question):**
+Before outputting, verify:
+☑ Question clearly tests the specified Key Term
+☑ Scenario details are actually relevant to the answer (not just decoration)
+☑ Correct answer is defensible via NSCA guidelines or established research
+☑ Distractors could fool someone with incomplete knowledge
+☑ Explanation cites specific principles or research (not vague generalities)
 
 {example_section}
 
