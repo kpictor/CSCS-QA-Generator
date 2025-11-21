@@ -3,6 +3,7 @@ from tkinter import ttk, scrolledtext, messagebox, filedialog
 from ..core import qa_generator
 from ..core import content_orchestrator
 from ..utils import config_manager
+from ..utils import anki_converter
 import os
 from datetime import datetime
 import threading
@@ -85,6 +86,11 @@ class App(tk.Tk):
         self.notebook.add(self.trans_tab, text="Translation Tool")
         self._init_translation_tab(self.trans_tab)
 
+        # Tab 3: Anki Flashcard Export
+        self.anki_tab = ttk.Frame(self.notebook)
+        self.notebook.add(self.anki_tab, text="Anki Flashcard Export")
+        self._init_anki_tab(self.anki_tab)
+
         # Initialize Config
         self.on_provider_select()
 
@@ -151,7 +157,7 @@ class App(tk.Tk):
         # Output
         log_frame = ttk.LabelFrame(parent, text="Translation Log", padding="10")
         log_frame.pack(fill=tk.BOTH, expand=True, pady=5)
-        self.trans_log = scrolledtext.ScrolledText(log_frame, wrap=tk.WORD, height=15)
+        self.trans_log = scrolledtext.ScrolledText(log_frame, wrap=tk.WORD, height=20)
         self.trans_log.pack(fill=tk.BOTH, expand=True)
 
     def browse_translation_files(self):
@@ -218,6 +224,149 @@ class App(tk.Tk):
         
         self.trans_log.insert(tk.END, "\nBatch Translation Complete.")
         self.trans_log.see(tk.END)
+
+    # =========================================
+    # Tab 3: Anki Export Logic
+    # =========================================
+    def _init_anki_tab(self, parent):
+        # Description
+        desc_frame = ttk.Frame(parent, padding="10")
+        desc_frame.pack(fill=tk.X)
+        
+        ttk.Label(desc_frame, text="Convert Translated Q&A Files to Anki Flashcards", 
+                  font=("Arial", 11, "bold")).pack(anchor=tk.W, pady=(0, 5))
+        ttk.Label(desc_frame, text="Select Chinese markdown files (*_CN.md) to convert into Anki-compatible flashcard format.",
+                  font=("Arial", 9)).pack(anchor=tk.W)
+        
+        # File Selection
+        file_frame = ttk.LabelFrame(parent, text="File Selection", padding="10")
+        file_frame.pack(fill=tk.X, pady=10, padx=10)
+        
+        file_select_frame = ttk.Frame(file_frame)
+        file_select_frame.pack(fill=tk.X, pady=5)
+        
+        self.anki_files_var = tk.StringVar()
+        ttk.Entry(file_select_frame, textvariable=self.anki_files_var).pack(side=tk.LEFT, fill=tk.X, expand=True, padx=5)
+        ttk.Button(file_select_frame, text="Browse Files...", command=self.browse_anki_files).pack(side=tk.LEFT, padx=5)
+        
+        # Action Buttons
+        button_frame = ttk.Frame(file_frame)
+        button_frame.pack(fill=tk.X, pady=5)
+        
+        self.convert_anki_btn = ttk.Button(button_frame, text="Convert to Anki Flashcards", 
+                                          command=self.start_anki_conversion_thread)
+        self.convert_anki_btn.pack(side=tk.LEFT, padx=5, fill=tk.X, expand=True)
+        
+        ttk.Button(button_frame, text="Clear Log", command=self.clear_anki_log).pack(side=tk.LEFT, padx=5)
+        
+        # Output Log
+        log_frame = ttk.LabelFrame(parent, text="Conversion Log", padding="10")
+        log_frame.pack(fill=tk.BOTH, expand=True, pady=10, padx=10)
+        
+        self.anki_log = scrolledtext.ScrolledText(log_frame, wrap=tk.WORD)
+        self.anki_log.pack(fill=tk.BOTH, expand=True)
+        
+        # Welcome message
+        self.anki_log.insert(tk.END, "Welcome to Anki Flashcard Export\n")
+        self.anki_log.insert(tk.END, "=" * 60 + "\n\n")
+        self.anki_log.insert(tk.END, "Instructions:\n")
+        self.anki_log.insert(tk.END, "1. Click 'Browse Files...' to select translated markdown files (*_CN.md)\n")
+        self.anki_log.insert(tk.END, "2. Click 'Convert to Anki Flashcards' to start conversion\n")
+        self.anki_log.insert(tk.END, "3. Import generated *_anki.txt files into Anki (File → Import)\n\n")
+        self.anki_log.insert(tk.END, "Flashcard Format:\n")
+        self.anki_log.insert(tk.END, "  Front: Key term + Question + Options\n")
+        self.anki_log.insert(tk.END, "  Back: Correct answer + Explanation\n")
+        self.anki_log.insert(tk.END, "  Tags: Auto-generated from filename\n\n")
+        self.anki_log.insert(tk.END, "=" * 60 + "\n\n")
+
+    def browse_anki_files(self):
+        """Browse and select translated CN markdown files for Anki conversion."""
+        files = filedialog.askopenfilenames(
+            title="Select Translated Files (*_CN.md)",
+            filetypes=[("Chinese Markdown Files", "*_CN.md"), ("All Markdown", "*.md"), ("All Files", "*.*")]
+        )
+        if files:
+            self.anki_files_var.set(";".join(files))
+            self.anki_log.insert(tk.END, f"Selected {len(files)} file(s) for conversion.\n\n")
+            self.anki_log.see(tk.END)
+
+    def clear_anki_log(self):
+        """Clear the Anki conversion log."""
+        self.anki_log.delete("1.0", tk.END)
+
+    def start_anki_conversion_thread(self):
+        """Start Anki conversion in a background thread."""
+        threading.Thread(target=self.run_anki_conversion, daemon=True).start()
+
+    def run_anki_conversion(self):
+        """Convert selected markdown files to Anki-compatible TXT format."""
+        files_str = self.anki_files_var.get()
+        if not files_str:
+            messagebox.showwarning("Input Error", "Please select files to convert.")
+            return
+
+        files = files_str.split(";")
+        
+        self.anki_log.insert(tk.END, f"Starting conversion for {len(files)} file(s)...\n")
+        self.anki_log.insert(tk.END, "=" * 60 + "\n\n")
+        self.anki_log.see(tk.END)
+        self.convert_anki_btn.config(state=tk.DISABLED)
+        self.update_idletasks()
+
+        success_count = 0
+        fail_count = 0
+        output_files = []
+
+        for i, file_path in enumerate(files):
+            if not os.path.exists(file_path):
+                self.anki_log.insert(tk.END, f"[{i+1}/{len(files)}] ✖ Skipping invalid path: {file_path}\n\n")
+                fail_count += 1
+                continue
+
+            filename = os.path.basename(file_path)
+            self.anki_log.insert(tk.END, f"[{i+1}/{len(files)}] Processing: {filename}\n")
+            self.anki_log.see(tk.END)
+            self.update_idletasks()
+
+            try:
+                output_path = anki_converter.convert_to_anki_txt(file_path)
+                self.anki_log.insert(tk.END, f"  ✔ Conversion successful\n")
+                self.anki_log.insert(tk.END, f"  → Output: {os.path.basename(output_path)}\n\n")
+                success_count += 1
+                output_files.append(output_path)
+            except Exception as e:
+                self.anki_log.insert(tk.END, f"  ✖ Conversion failed\n")
+                self.anki_log.insert(tk.END, f"  → Error: {str(e)}\n\n")
+                fail_count += 1
+            
+            self.anki_log.see(tk.END)
+            self.update_idletasks()
+        
+        # Summary
+        self.anki_log.insert(tk.END, "=" * 60 + "\n")
+        self.anki_log.insert(tk.END, f"Conversion Complete!\n")
+        self.anki_log.insert(tk.END, f"  ✔ Success: {success_count} file(s)\n")
+        if fail_count > 0:
+            self.anki_log.insert(tk.END, f"  ✖ Failed: {fail_count} file(s)\n")
+        self.anki_log.insert(tk.END, "=" * 60 + "\n\n")
+        
+        if success_count > 0:
+            self.anki_log.insert(tk.END, "Generated files:\n")
+            for output_file in output_files:
+                self.anki_log.insert(tk.END, f"  • {output_file}\n")
+            self.anki_log.insert(tk.END, "\n")
+        
+        self.anki_log.see(tk.END)
+        self.convert_anki_btn.config(state=tk.NORMAL)
+        
+        if success_count > 0:
+            messagebox.showinfo("Conversion Complete", 
+                f"Successfully converted {success_count} file(s) to Anki format.\n\n"
+                f"Next steps:\n"
+                f"1. Open Anki\n"
+                f"2. Go to File → Import\n"
+                f"3. Select the *_anki.txt file(s)\n"
+                f"4. Verify settings and import")
 
     # =========================================
     # Shared/Generation Methods

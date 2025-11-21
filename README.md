@@ -29,6 +29,15 @@ Choose your preferred AI provider. The application supports:
 *   **Anthropic Claude**
 *   **Alibaba Qwen**
 
+### 4. 🎴 Anki Flashcard Export
+Convert translated Chinese Q&A files into Anki-compatible flashcards for spaced repetition learning.
+
+*   **Dedicated Window:** Separate, clean interface for flashcard conversion
+*   **Batch Conversion:** Process multiple `*_CN.md` files at once
+*   **Smart Parsing:** Automatically extracts questions, options, answers, and explanations
+*   **Anki-Ready Format:** Generates tab-delimited TXT files with proper HTML formatting
+*   **Auto-Tagging:** Tags flashcards based on filename for easy organization in Anki
+
 ---
 
 ## 🛠️ Installation
@@ -80,6 +89,21 @@ python -m src.app
 3.  **Translate:** Click **"Translate Selected Files"**.
 4.  **Output:** Translated files are saved in the same directory as the original files with a `_CN` suffix (e.g., `Topic_1_CN.md`).
 
+### Exporting to Anki Flashcards (Tab 3)
+1.  **Go to Tab:** Click the **"Anki Flashcard Export"** tab (third tab in the application).
+2.  **Select Files:** Click **"Browse Files..."** and select your translated Chinese files (`*_CN.md`).
+3.  **Convert:** Click **"Convert to Anki Flashcards"**. The conversion log will show progress.
+4.  **Import to Anki:** 
+    *   Open Anki desktop application
+    *   Go to **File → Import**
+    *   Select the generated `*_anki.txt` file(s)
+    *   Verify settings (Type: Basic, HTML enabled) and click Import
+5.  **Study:** Review your flashcards in Anki!
+
+**Flashcard Format:**
+- **Front:** Key term + Question with all options
+- **Back:** Correct answer + Detailed explanation
+
 ---
 
 ## 📂 Project Structure
@@ -91,7 +115,11 @@ CSCS-QA-Generator/
 │   ├── core/              # Core logic (QA generation, content orchestration)
 │   ├── data_processing/   # Metadata parsers and PDF processors
 │   ├── ui/                # GUI implementation (Tkinter)
-│   ├── utils/             # Configuration management utilities
+│   │   ├── gui.py         # Main application window
+│   │   └── anki_window.py # Anki flashcard export window
+│   ├── utils/             # Configuration and converter utilities
+│   │   ├── config_manager.py
+│   │   └── anki_converter.py  # Markdown to Anki conversion logic
 │   └── app.py             # Main application entry point
 ├── data/
 │   ├── metadata/          # Exam outline and key term mappings (JSON/MD)
