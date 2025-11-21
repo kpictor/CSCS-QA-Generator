@@ -108,7 +108,7 @@ def generate_qa_with_ai(provider, model_name, api_key, prompt):
     """Generates Q&A using the specified AI model."""
     return ai_models.generate_qa(provider, model_name, api_key, prompt)
 
-def _split_content_into_chunks(content, max_chunk_size=25000):
+def _split_content_into_chunks(content, max_chunk_size=15000):
     """
     Splits content into chunks by markdown sections to avoid breaking questions.
     Attempts to split at section boundaries (## headers or --- separators).
@@ -202,7 +202,7 @@ def translate_and_reorganize(content, provider, model_name, api_key, prompt_temp
         progress_callback(0, total_chunks, f"Processing large file ({file_size_kb:.1f}KB) in {total_chunks} chunks...")
     
     for i, chunk in enumerate(chunks, 1):
-        max_retries = 3
+        max_retries = 5
         retry_count = 0
         last_error = None
         
@@ -230,7 +230,7 @@ def translate_and_reorganize(content, provider, model_name, api_key, prompt_temp
                 # Add delay between chunks to avoid rate limiting (skip delay after last chunk)
                 if i < total_chunks:
                     import time
-                    time.sleep(2)
+                    time.sleep(5)
                 
                 break  # Success - exit retry loop
                 
@@ -239,9 +239,9 @@ def translate_and_reorganize(content, provider, model_name, api_key, prompt_temp
                 retry_count += 1
                 
                 if retry_count < max_retries:
-                    # Wait before retrying (exponential backoff: 2s, 4s, 8s)
+                    # Wait before retrying (exponential backoff: 5s, 10s, 20s, 40s, 80s)
                     import time
-                    wait_time = 2 ** retry_count
+                    wait_time = 5 * (2 ** retry_count)
                     if progress_callback:
                         progress_callback(i, total_chunks, f"Chunk {i}/{total_chunks} failed, retrying in {wait_time}s...")
                     time.sleep(wait_time)
