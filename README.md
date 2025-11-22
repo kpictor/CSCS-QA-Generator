@@ -5,14 +5,20 @@ A comprehensive tool designed for **Strength and Conditioning (CSCS)** candidate
 ## 🚀 Features
 
 ### 1. 📝 Smart Q&A Generation
-Generate exam-quality multiple-choice questions tailored to specific needs.
+Generate exam-quality multiple-choice questions tailored to specific needs with **context-aware AI prompts**.
 
-*   **Targeted Practice (Outline):** Select specific domains, subdomains, or tasks directly from the CSCS Exam Content Outline. The AI uses the official exam structure to create relevant questions.
-*   **Practice by Chapter:** Choose one or multiple chapters from the *Essentials of Strength Training and Conditioning* textbook. The tool pulls key terms and context from your selected chapters.
+*   **Targeted Practice (Outline):** Select specific domains, subdomains, or tasks directly from the CSCS Exam Content Outline. The AI receives the exact outline topic context to ensure questions align perfectly with exam competencies.
+*   **Practice by Chapter:** Choose one or multiple chapters from the *Essentials of Strength Training and Conditioning* textbook. The AI is explicitly informed which chapter it's generating questions for, ensuring content relevance.
 *   **Cognitive Levels:** Customize the difficulty and style of questions:
     *   **Recall:** Basic definitions and facts.
     *   **Application:** Applying knowledge to specific scenarios (calculations, "if/then" situations).
     *   **Analysis:** Complex decision-making and evaluating competing factors.
+*   **Enhanced Prompts:** The AI receives comprehensive context including:
+    *   Key terms from the selected topic/chapter
+    *   Chapter name or outline topic (NEW)
+    *   Example questions for style matching
+    *   Cognitive level definitions and requirements
+    *   Athlete scenario profiles for application/analysis questions
 *   **Batch Generation:** Automatically generates questions for batches of key terms to ensure broad coverage.
 
 ### 2. 🌏 Content Translation
@@ -103,6 +109,12 @@ python -m src.app
 **Flashcard Format:**
 - **Front:** Key term + Question with all options
 - **Back:** Correct answer + Detailed explanation
+
+### Combining Files (Tab 4)
+1.  **Select Files:** Click **\"Browse Files...\"** and select multiple text files you want to combine.
+2.  **Combine:** Click **\"Combine and Save Files\"**.
+3.  **Save Location:** Choose where to save the combined file.
+4.  **Output:** All selected files are merged into a single file with separators between each file's content.
 
 ---
 

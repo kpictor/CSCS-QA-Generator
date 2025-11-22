@@ -1,10 +1,18 @@
 from ..api import ai_models
 from .scenario_generator import ScenarioGenerator
 
-def generate_batch_prompt(key_terms, content, example_questions=None, cognitive_level="Recall"):
+def generate_batch_prompt(key_terms, content, example_questions=None, cognitive_level="Recall", mode="outline", topic_context=None):
     """
     Generates a prompt to create questions for a specific list of Key Terms, 
     tailored to a specific Cognitive Level, with Scenario Injection and Chain-of-Thought.
+    
+    Args:
+        key_terms: List of key terms to generate questions for
+        content: Source text content
+        example_questions: Optional list of example questions
+        cognitive_level: "Recall", "Application", or "Analysis"
+        mode: "chapter" or "outline" - determines how topic context is presented
+        topic_context: Chapter name or outline topic to provide context
     """
     
     # 1. Generate a Random Scenario for Context (Vital for Application/Analysis)
@@ -42,6 +50,22 @@ def generate_batch_prompt(key_terms, content, example_questions=None, cognitive_
         example_section = f"### Style Reference (Do not copy, just match tone):\n{formatted_examples}"
 
     terms_list = "\n".join([f"- {term}" for term in key_terms])
+    
+    # 3. Topic Context Section (Chapter or Outline Topic)
+    topic_section = ""
+    if topic_context:
+        if mode == "chapter":
+            topic_section = f"""
+**Chapter Context:**
+You are generating questions for: **{topic_context}**
+All questions must be directly relevant to the content and concepts covered in this specific chapter.
+"""
+        else:  # outline mode
+            topic_section = f"""
+**Outline Topic:**
+You are generating questions for: **{topic_context}**
+Ensure all questions align with this specific outline topic and test the competencies it defines.
+"""
 
     prompt = f"""
 You are a Lead CSCS Exam Writer for the NSCA. Your goal is to create "Gold Standard" exam questions that test true competency, not just memorization.
@@ -50,7 +74,7 @@ You are a Lead CSCS Exam Writer for the NSCA. Your goal is to create "Gold Stand
 Generate exactly {len(key_terms)} multiple-choice questions.
 ONE question for EACH of the following Key Terms:
 {terms_list}
-
+{topic_section}
 {scenario_context}
 
 {instruction}
